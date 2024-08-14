@@ -1,0 +1,59 @@
+[
+  
+    {
+      "title"    : "Digital garden of longform articles",
+      "category" : "",
+      "tags"     : "recommendations, reading, article, blogs",
+      "url"      : "/blog/longform-articles",
+      "date"     : "2024-08-01 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Blogs I Read Every Week",
+      "category" : "",
+      "tags"     : "blogs, recommendations, academia",
+      "url"      : "/blog/blogs-to-follow",
+      "date"     : "2024-07-01 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "One Kannada Novel a Year",
+      "category" : "",
+      "tags"     : "reading, recommendations, review",
+      "url"      : "/blog/kannada-novels",
+      "date"     : "2024-06-01 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "A Balancing Act",
+      "category" : "",
+      "tags"     : "academia, journalism, interviews, article",
+      "url"      : "/blog/balancing-act",
+      "date"     : "2022-11-10 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "The Myth of the Coy Female",
+      "category" : "",
+      "tags"     : "scicomm, books, article",
+      "url"      : "/blog/myth-coy-female",
+      "date"     : "2022-02-25 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Life is Hard for the Cuckoo too",
+      "category" : "",
+      "tags"     : "scicomm, article, books",
+      "url"      : "/blog/cuckoos",
+      "date"     : "2021-11-15 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Earth, Blossom and Steel",
+      "category" : "",
+      "tags"     : "article, journalism, interviews",
+      "url"      : "/blog/earth-blossom-steel",
+      "date"     : "2020-06-15 00:00:00 +0530"
+    } 
+  
+]

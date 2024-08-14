@@ -1,0 +1,56 @@
+- title: Automated Tracking of Behavioural Synchrony in Cooperating Marmosets
+  from: June 2023
+  to: May 2024
+  description: I did my master's thesis with Prof. Judith Burkart and Nikhil Phaniraj in the Evolutionary Cognition Group, Institute of Evolutionary 
+              Anthropolgy, University of Zurich. I established an automated 3D pose-tracking pipeline to study gaze following, interpersonal behavioural
+              synchrony and posture imitation in common marmosets using DeepLabCut and StereoCameraCalibrator. 
+
+- title: Reinforcement-induced Reduction in the Number of Introductory Notes in Zebra Finches
+  from: January 2023
+  to: April 2023
+  description: This was a credited semester project with Dr. Raghav Rajan at Department of Biology, IISER Pune. I conducted a closed-loop behavioural assay using 
+              syllable variance measured in real-time to provide negative reinforcement against a high number of introductory note syllables (INs). 
+              We saw a significant reduction in the mean number of INs in a test bird.
+
+- title: Comparative Analysis of Introductory Notes across four Estrildid Finches
+  from: August 2022
+  to: December 2022
+  description: This was a credited semester project with Dr. Raghav Rajan and Nandu T.S. at Department of Biology, IISER Pune. We compared the song sequences 
+              of 4 Estrildid species and found that they begin their song with specific syllables, and the loudness of the first five syllables in a song 
+              increases, whereas the inter-syllable duration, similar to the patterns observed in introductory notes of Zebra finches.
+
+- title: Effect of Recent Pathogen Experience on Induced Sanitary Broodcare in Ants
+  from: June 2022
+  to: August 2022
+  description: This was a research internship with Prof. Sylvia Cremer and Linda Sartoris at the Institute of Science and Technology Austria (ISTA). 
+              In this experimental project, ants were first exposed to a fungal pathogen for a brief period and later to contaminated larvae, 
+              but there was no effect of recent pathogen experience on sanitary brood care. We concluded that a low-level contamination is lethal 
+              for isolated larvae, but not adult ants.
+
+- title: An Analysis of Flowering Synchrony Indices
+  from: January 2022
+  to: May 2022
+  description: This was a credited semester project with Prof. Deepak Barua at Department of Biology, IISER Pune. In this project, I compared four different 
+              flowering synchrony indices using simulated flowering populations in R, which had different levels flowering intensities and time distributions.
+              I modified an existing measure to better capture synchrony by comparing existing overlap of flowering distribution to the maximum possible overlap
+              using convolution.
+
+- title: Literature Review on the Human Gut Microbiome
+  from: September 2021
+  to: December 2021
+  description: This was a credited semester project with Prof. Sutirth Dey at Department of Biology, IISER Pune. In this project, I did a comprehensive literature
+                review on the human gut microbiome - the diversity, factors that affect microbiome composition, metabolism, immune interactions and dysbiosis.
+
+- title: Readings and Writings on Animal Behaviour
+  from: April 2021
+  to: September 2021
+  description: This was an online mentored project with Prof. Raghavendra Gadagkar at the Indian Institute of Science. This summer project involved reading 
+              several books on animal behaviour, and writing articles based on them, one of which got published on a science communication platform. 
+              I also did a literature review of common principles across social and individual immunity.
+
+- title: Behavioural annotation of ants in response to fungal pathogen
+  from: June 2021
+  to: September 2021
+  description: This was a remote project with Dr. Nathalie Stroeymeyt and Adriano Wanderlingh at the Bristol University. This remote project involved annotating  
+              the behavioural repertoire of Lasius niger ants tagged with QR codes before and after exposure to a fungal pathogen.
+
