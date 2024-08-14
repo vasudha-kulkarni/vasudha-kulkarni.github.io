@@ -3,7 +3,7 @@ title: A Balancing Act
 tags: [academia, journalism, interviews, article]
 style: fill
 color: success
-description: Vasudha Kulkarni, Saismit Naik, Aharna Sarkar, Khushi Datri, Shaswat Nair, Srivathsa Kurpad, Sultan Nazir
+description: An interview-based article on work-life balance of PhD students and lab culture in IISER Pune.
 ---
 
 ##### Vasudha Kulkarni, Saismit Naik, Aharna Sarkar, Khushi Datri, Shaswat Nair, Srivathsa Kurpad, Sultan Nazir
