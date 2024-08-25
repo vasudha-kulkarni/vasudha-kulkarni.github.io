@@ -12,6 +12,19 @@ Here are some resources for creating your own static site using Jekyll and hosti
   * [jekyllthemes.org](http://jekyllthemes.org/)
   * [jekyllthemes.io](https://jekyllthemes.io/)
   * [jekyllthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)
-4. Some other options 
+4. Commands to run the website locally
+  In the terminal, go into the directory where your root directory is located and then run the following - 
+
+  ```
+  cd Computer/website/folder
+  bundle install
+  jekyll new . --force
+  bundle exec jekyll serve --watch
+  ```
+  
+5. Verify your website - 
+  * Add [Google Analytics](https://support.google.com/sites/answer/97459?hl=en) verification code in the config file
+  * Add Google search console [HTML verification file](https://support.google.com/webmasters/answer/9008080#html_verification&zippy=%2Chtml-file-upload)
+5. Some other options 
   * HTML templates website - [HTML5up](https://html5up.net/)
   * [Carrd](https://carrd.co/) - one page, simple website with premium account options
