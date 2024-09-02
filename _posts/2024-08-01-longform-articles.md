@@ -6,7 +6,7 @@ color: secondary
 description: A collection of articles I have really enjoyed, those that I want to keep going back to.
 ---
 
-My friend Divyansh, introduced me to the idea of [digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) -- a digital garden is your corner of the internet, a place for you to explore and write about what interests you, just because it interests you ([Here](https://amandapinsker.com/reading) and [here](https://highlights.melanie-richards.com/) are a couple of really creative digital gardens on books!). I fell in love with the idea immediately. While other bloggers have done wonderful things with the idea, I wanted to create a digital garden of all the longform articles I've enjoyed and loved. I truly enjoy reading good writing, especially when the writer is narrating a story. And when I read a great article on the web, I tend to bookmark it, send it to myself on email or share it with my friends. But ultimately, they end up being scattered everywhere. This blog is a collection of all the longform articles I've loved, that I want to keep going back to. Let me know which one you liked best!
+My friend Divyansh, introduced me to the idea of [digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) -- a digital garden is your corner of the internet, a place for you to explore and write about what interests you, just because it interests you ([Here](https://amandapinsker.com/reading) and [here](https://highlights.melanie-richards.com/) are a couple of really creative digital gardens on books!). I fell in love with the idea immediately. While other bloggers have done wonderful things with this idea, I just wanted to create a digital garden of all the longform articles I've enjoyed and loved. I truly enjoy reading good writing, especially when the author is narrating a story. And when I read a great article on the web, I tend to bookmark it, send it to myself on email or share it with my friends. But ultimately, they end up being scattered across platforms. So, this blog is a collection of all the longform articles I've loved, those that I want to keep going back to. Let me know which one you liked best!
 
 #### Top 3 Recommendations
 
@@ -24,7 +24,7 @@ My friend Divyansh, introduced me to the idea of [digital gardens](https://www.t
   > _"As far as I know, the family’s temple — that has for decades provided solace and adequate space for worship of Ram and Sita — had been built without any conflict or need to dispute with any other community."_
 
 * [_How Caste Smells_ ](https://behanbox.com/2024/04/02/how-caste-smells-notes-from-a-south-asian-beauty-salon-in-london/) : _Notes From A South-Asian Beauty Salon in London_ by Nandita Dutta
-* [The Quality Control Interview for Big Classes](http://bactra.org/weblog/2024/03/23/) by Cosma Rohilla Shalizi
+* [_The Quality Control Interview for Big Classes_](http://bactra.org/weblog/2024/03/23/) by Cosma Rohilla Shalizi
 * [_AWOL from Academics_](https://www.harvardmagazine.com/2024/03/university-people-the-undergraduate-balance) by Aden Barton
 * [_On limitations that hide your blindspot_](https://www.henrikkarlsson.xyz/p/limitatons?utm_source=post-email-title&publication_id=313411&post_id=142697510&utm_campaign=email-post-title&isFreemail=true&r=2a2h8p&triedRedirect=true&utm_medium=email) by Henrik Karlsson and Johanna Wiberg
 

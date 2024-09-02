@@ -83,14 +83,14 @@ Here are some ideas on how to organize a research project such that it's searcha
 1. <ins>Use a reference manager to collect and manage papers.</ins> I personally prefer Zotero, especially because of the [Google Chrome extension](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) that allows you to save papers directly from the web. I also use [Foxit PDF reader](https://www.foxit.com/pdf-reader/) to highlight text and make notes directly on the PDF file.
 <img src="/images/resources/phd_notfinal.jpg" alt="image" style="width:300px;height:auto;float:left;margin:10px 30px;">
 2. <ins>Make sure your notes are searchable and backed up.</ins> This applies to all notes such as, literature review, meeting notes, ideas file, experiment log and so on.  I used to use Google Docs for note-taking because it also makes sharing easy, but I will be moving to Github + Markdown soon. Others prefer Notion or Microsoft Word files, but it's really important to me that my notes are on a cloud and I can access my notes from another device. The good old pen-and-paper really helps me think, and I use it to take notes during talks, but I ensure that I transfer the important points to my official notes folder. \
-{% include elements/highlight.html text="TIP " %}: Name all your files in the _YYYYMMDD_ format, with underscores instead of spaces, so you can find them easily. This also helps avoid naming files as _'thesis-final'_ and _'thesis-final-2.0'_.
+{% include elements/highlight.html text="TIP " %}: Name all your files in the _YYYYMMDD_ format (with underscores instead of spaces!) so you can find them easily. This also helps avoid naming files as _'thesis-final'_ and _'thesis-final-2.0'_.
 3. <ins>Create 'Resource' sheets</ins> when you're coming up with an experiment protocol or learning a new tool. For instance, during my master's thesis, I learnt to configure (surprisingly error-prone) Raspberry Pi's. I documented the steps and common errors along with their solutions in this [note](/files/20230614_RasPiCameraConfiguration.pdf). I also documented the experimental protocol, as I was developing it, in this [note](/files/20230830_ExperimentProtocol.pdf). Documenting my work this way helped me to already write up the methods of my work way before I started writing the thesis.
 4. <ins>Create a summary spreadsheet of your experiments.</ins> While most experimental labs insist on a physical lab notebook to document what went down during the experiment, I also find it very useful to create a spreadsheet with all the relevant details that can be accessed easily.
 5. <ins>Document your code!</ins> This one seems trivial, but we often get lax about it. Comment and document your code for your future self. [_The Good Research Code Handbook_](https://goodresearch.dev/) by Dr. Patrick Mineault is an _excellent_ guide on how to organise and document your code. It also has helpul advice on writing decoupled code and using unit tests to improve your code.
 6. <ins>Keep track of long-term and short-term goals.</ins> The credit for this goes to Dr Raghav Rajan at IISER Pune, since I started implementing this based on his suggestion during my semester project in his lab. I do this by creating a document where - 
    * At the top, I write down the broad aim of the project, the expected results of the experiment and what it implies in terms of the bigger picture.
    * In the next section, I write the broad stages of the project and then the smaller steps, within each stage as I do the work, to keep track of where the project is heading and all the things I attempted.
-   * In terms of short-term, actionable goals - every Friday afternoon, before I log off, I make a list of all the work I did that week (including any important meetings, talks or conferences), the tasks to be done in the next week (crossing checklists is my favourite thing!), highlight any new conceptual ideas I had, and anything that was challenging that week (everything from a mental funk to frustratingly faulty equipment). This weekly update to myself keeps me on the track and allows me to reflect on what I'm doing as I'm doing it.
+   * To keep track of short-term, actionable goals - every Friday afternoon, before I log off, I make a list of all the work I did that week (including any important meetings, talks or conferences), the tasks to be done in the next week (crossing checklists is my favourite thing!), highlight any new conceptual ideas I had, and anything that was challenging that week (everything from a mental funk to frustratingly faulty equipment). This weekly update to myself keeps me on track and allows me to reflect on what I'm doing as I'm doing it.
 
 -----
 ## **Offering Feedback and Guidance**
@@ -102,6 +102,8 @@ Three years ago, I would spend days drafting and editing emails to professors to
 If you would like an extra pair of eyes on your writing or work, please feel free to reach out to me. I'd be happy to talk about my experience and give you my feedback (perhaps with a slight delay). But keep in mind that my qualifiations are just this: a first-year PhD student, who went through PhD application process, and has some experience presenting at symposiums and conferences.
 
 Additionally, if you're travelling to Vienna (and Europe) for the first time, particularly if you're a woman from a marginalised background, I would be glad to help you navigate the city in the first few days. I can offer tips and help you settle in during your initial days. Just send me an email a few days in advance. 
+
+PS. I'm starting my PhD in September 2024, but will likely only be of help in Vienna from 2025 onwards!
 
 
 -----
@@ -143,6 +145,9 @@ Additionally, if you're travelling to Vienna (and Europe) for the first time, pa
 
 If you know of any cool resources for writing, reading, research, visualisation or anything else you think might interest me - do send it along!
 
+-----
+
+The comics in this page have been borrowed from [_PhD Comics_](https://phdcomics.com/), created by Jorge Cham. It's a comic strip about "life (or lack thereof) in academia".
 
 <!-- Blog colours and border/fill
 Light - White
