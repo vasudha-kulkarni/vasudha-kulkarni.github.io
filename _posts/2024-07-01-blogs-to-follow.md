@@ -33,7 +33,10 @@ It's a blog maintained by an Australian early-career ecologist that has posts on
 #### 7. _India Bioscience_
 It's a platform that engages with life sciences in academia, industry and government at various levels. Subscribing to their newsletter alerts you to job ooportunities in Indian life sciences realm, and interesting talks and interviews. They invite people to write columns on several topics, including PhD journeys, education, early career experience and so on. Here is an important peace on [money and mental health during PhD](https://indiabioscience.org/columns/indian-scenario/money-mental-health-indian-academia).
 
-#### 8. _Research Whisperer_ by Tseen Khoo and Jonathan O'Donnell
+#### 8. _Publish not Perish_ by Jenn McClearen
+This is a blog for PhD students or early career researchers who want to work on their writing, develop a writing practice and navigate academic culture. Here is an interesting list of strategies to [finding and honing your argument](https://www.publishnotperish.net/p/a-few-strategies-for-finding-your). The posts cover a wide range - from advice on writing grant proposals and literature reviews to focusing on maintaining balance while being a parent. It seems quite useful, but sadly, a lot of the posts require upgrading to a paid subscription.
+
+#### 9. _Research Whisperer_ by Tseen Khoo and Jonathan O'Donnell
 They write about research culture, how to navigate grants-speak, building your research track-record and other things academia. Here is an interesting post on [how to write a grant application](https://researchwhisperer.org/2023/12/12/how-long-will-it-take-to-write-an-application/).
 
 <!-- ### <ins>Science-y blogs</ins> -->
@@ -42,12 +45,15 @@ They write about research culture, how to navigate grants-speak, building your r
 ![Science](/images/blog/blog_sci.png)
 
 #### 1. _Reflections on Paper Past_ by Hari Sridhar
-This blog gives you a behind-the-scenes view on seminal papers in ecology and evolution. Sridhar has been interviewing authors to ask them about their experience while working on the paper, what they think of it so many years later and how it has impacted the feild. My favourite is this interview with [Sarah Blaffer Hrdy](https://reflectionsonpaperspast.wordpress.com/2018/01/02/revisiting-hrdy-1974/) on her study of infanticide as a reproductive strategy for male langurs of Abu.
+This blog gives you a behind-the-scenes view on seminal papers in ecology and evolution. Sridhar has been interviewing authors to ask them about their experience while working on the paper, what they think of it so many years later and how it has impacted the feild. My favourite is this interview with [Sarah Blaffer Hrdy](https://reflectionsonpaperspast.wordpress.com/2018/01/02/revisiting-hrdy-1974/) on her study of infanticide as a reproductive strategy for male langurs of Abu. The blog now has [a new website](https://reflectionsonpaperspast.com/) with selected quotes, annotated papers, visual archive and more!
 
 #### 2. _Liminal_ by Liz Neeley and Ambika Kamath
 They are a science communication collective who help make sense of science. This reflective post in their newsletter by Neeley on how to [navigate through emotions in a rational argument](https://www.liminalcreations.com/newsletter/when-an-immovable-fact-meets-an-unstoppable-feeling) is very stimulating.
 
-#### 3. _Rapid Uplift_ by Suvrat Kher
+#### 3. _Scattterings_ by G. V. Pavan Kumar
+This is a blog with interviews of Indian scientists from various disciplines, and several posts by Pavan on the history and process of scientific ideas and development. This blog tries to humanise science and make it accessible to a wider audience.
+
+#### 4. _Rapid Uplift_ by Suvrat Kher
 In this newsletter, Kher explores new research in geology and shares his experience of visiting different landscapes and geologic terrains through pictures and videos. Here is an interesting one on [deep sea mining](https://rapiduplift.substack.com/p/rapid-uplift-deep-sea-mining-indian). To be perfectly candid (imitating Rosa Diaz), I sometimes skim through the text when the post gets technical.
 
 <!-- ### <ins>Other blogs</ins> -->
