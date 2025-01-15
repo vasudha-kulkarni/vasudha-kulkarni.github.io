@@ -18,6 +18,7 @@ My friend Divyansh, introduced me to the idea of [digital gardens](https://www.t
 
 #### A list of articles, in order of when I read them - 
 
+* [How to Stay Alive and Horny Under Authoritarianism](https://buttondown.com/theswordandthesandwich/archive/how-to-stay-alive-and-horny-under-authoritarianism/)
 * [_Multiple Fractures_ ](https://www.telegraphindia.com/opinion/multiple-fractures-numerous-fault-lines-await-indias-new-government/cid/2023896) : _Numerous Fault Lines Await India's New Government_ by Ramchandra Guha
 * [_Let My Country Awake_](https://shankarraman.in/2024/04/05/l/) by T.R. Shankar Raman
 
