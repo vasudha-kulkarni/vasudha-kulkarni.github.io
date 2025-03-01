@@ -11,16 +11,16 @@ weight: 5
 ---------
 ### **Education**
 
-##### 1. High School, R.V. P.U. College, Bangalore
-May 2017 - May 2019\
-Percentage: 92.7
+##### 1. PhD, Institute of Science and Technology Austria (ISTA), Klosterneuburg
+September 2024 - Present
 
 ##### 2. BS-MS in Biology, Indian Institute of Science Education and Research (IISER), Pune
 August 2019 - May 2024\
 CGPA: 8.7
 
-##### 3. PhD, Institute of Science and Technology Austria (ISTA), Klosterneuburg
-September 2024 - Present
+##### 3. High School, R.V. P.U. College, Bangalore
+May 2017 - May 2019\
+Percentage: 92.7
 
 --------
 ### **Master's Thesis**
@@ -48,14 +48,13 @@ Estrildid bird species. IISER Pune Biology Undergraduate Poster Session. Nov 202
 ### **Relevant Coursework**
 
 ##### Biology 
-Animal Behaviour, Neurobiology I, Evolution, Ecology I and II, Animal Physiology I and II, Chemical Ecology, Mathematical and Computational Biology, Physiology, Genetics, Cell Biology, Biology of Systems
+Animal Behaviour, Neurobiology I, Evolution, Ecology I and II, Animal Physiology I and II, Chemical Ecology, Mathematical and Computational Biology, Statistics for Life Scientists, Physiology, Genetics, Cell Biology, Biology of Systems
 ##### Data Science
 Data Analysis, Bioinformatics, Introduction to Statistical Learning, Generalized Linear Models and their Applications
 ##### Mathematics
 Multivariable Calculus, Linear Algebra, Introduction to Probability and Statistics
 ##### Humanities 
 History of Science, Science and Society, Political Ecology, Political Thought in India, Disasters and Society, Diseases and Discourse, Contemporary Stories from the Subcontinent
-
 
 --------
 ### **Scholarships and Awards**

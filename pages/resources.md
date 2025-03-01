@@ -13,6 +13,7 @@ PhD Application
 Research Project Organisation
 Offering Feedback and Guidance
 Miscellaneous
+Cheat Sheets
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
@@ -82,15 +83,18 @@ Here are some ideas on how to organize a research project such that it's searcha
 
 1. <ins>Use a reference manager to collect and manage papers.</ins> I personally prefer Zotero, especially because of the [Google Chrome extension](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) that allows you to save papers directly from the web. I also use [Foxit PDF reader](https://www.foxit.com/pdf-reader/) to highlight text and make notes directly on the PDF file.
 <img src="/images/resources/phd_notfinal.jpg" alt="image" style="width:300px;height:auto;float:left;margin:10px 30px;">
-2. <ins>Make sure your notes are searchable and backed up.</ins> This applies to all notes such as, literature review, meeting notes, ideas file, experiment log and so on.  I used to use Google Docs for note-taking because it also makes sharing easy, but I will be moving to Github + Markdown soon. Others prefer Notion or Microsoft Word files, but it's really important to me that my notes are on a cloud and I can access my notes from another device. The good old pen-and-paper really helps me think, and I use it to take notes during talks, but I ensure that I transfer the important points to my official notes folder. \
+2. <ins>Make sure your notes are searchable and backed up.</ins> This applies to all notes such as, literature review, meeting notes, ideas file, experiment log and so on.  I used to use Google Docs for note-taking because it also makes sharing easy, but I have switched to [Obsidian](https://obsidian.md/), which stores all files locally and has a useful feature to connect files, visualise these connections and create your own wikipedia. The good old pen-and-paper really helps me think, and I use it to take notes during talks and meetings, but I ensure that I transfer the important points to my official notes folder. \
 {% include elements/highlight.html text="TIP " %}: Name all your files in the _YYYYMMDD_ format (with underscores instead of spaces!) so you can find them easily. This also helps avoid naming files as _'thesis-final'_ and _'thesis-final-2.0'_.
-3. <ins>Create 'Resource' sheets</ins> when you're coming up with an experiment protocol or learning a new tool. For instance, during my master's thesis, I learnt to configure (surprisingly error-prone) Raspberry Pi's. I documented the steps and common errors along with their solutions in this [note](/files/20230614_RasPiCameraConfiguration.pdf). I also documented the experimental protocol, as I was developing it, in this [note](/files/20230830_ExperimentProtocol.pdf). Documenting my work this way helped me to already write up the methods of my work way before I started writing the thesis.
-4. <ins>Create a summary spreadsheet of your experiments.</ins> While most experimental labs insist on a physical lab notebook to document what went down during the experiment, I also find it very useful to create a spreadsheet with all the relevant details that can be accessed easily. For bigger projects, here is a relevant and handy article on [data management skills for reproducible science](https://laskowskilab.faculty.ucdavis.edu/2020/08/03/keeping-a-paper-trail-data-management-skills-for-reproducible-science/) by Kate Laskowski.
-5. <ins>Document your code!</ins> This one seems trivial, but we often get lax about it. Comment and document your code for your future self. [_The Good Research Code Handbook_](https://goodresearch.dev/) by Dr. Patrick Mineault is an _excellent_ guide on how to organise and document your code. It also has helpul advice on writing decoupled code and using unit tests to improve your code. Here is a more concise [_Dynamic Ecology_ blog post](https://dynamicecology.wordpress.com/2024/10/14/is-ecology-ready-for-big-code/) by Brian McGill on best practices for big code. 
-6. <ins>Keep track of long-term and short-term goals.</ins> The credit for this goes to Dr Raghav Rajan at IISER Pune, since I started implementing this based on his suggestion during my semester project in his lab. I do this by creating a document where - 
+1. <ins>Create Standard Operating Protocols (SOP)</ins> when you're coming up with an experiment protocol or learning a new tool. For instance, during my master's thesis, I learnt to configure (surprisingly error-prone) Raspberry Pi's. I documented the steps and common errors along with their solutions in this [note](/files/20230614_RasPiCameraConfiguration.pdf). Documenting my work this way helped me to already write up the methods of my work way before I started writing the thesis.
+2. <ins>Create a summary spreadsheet of your experiments.</ins> While most experimental labs insist on a physical lab notebook to document what went down during the experiment, I also find it very useful to create a spreadsheet with all the relevant details that can be accessed easily. For bigger projects, here is a relevant and handy article on [data management skills for reproducible science](https://laskowskilab.faculty.ucdavis.edu/2020/08/03/keeping-a-paper-trail-data-management-skills-for-reproducible-science/) by Kate Laskowski.
+3. <ins>Document and organise your code!</ins> This one seems trivial, but we often get lax about it. Comment and document your code for your future self. [_The Good Research Code Handbook_](https://goodresearch.dev/) by Patrick Mineault is an _excellent_ guide on how to organise and document your code. It also has helpul advice on writing decoupled code and using unit tests to improve your code. I use Jupyter notebooks to analyse, simulate and visualise data, and store the functions in a separate .py file so the notebook doesn't get too long. Here is a more concise [_Dynamic Ecology_ blog post](https://dynamicecology.wordpress.com/2024/10/14/is-ecology-ready-for-big-code/) by Brian McGill on best practices for big code. 
+4. <ins>Keep track of long-term and short-term goals.</ins> The credit for this goes to Dr. Raghav Rajan at IISER Pune, since I started implementing this based on his suggestion during my semester project in his lab. I do this by creating a document where - 
    * At the top, I write down the broad aim of the project, the expected results of the experiment and what it implies in terms of the bigger picture.
    * In the next section, I write the broad stages of the project and then the smaller steps, within each stage as I do the work, to keep track of where the project is heading and all the things I attempted.
    * To keep track of short-term, actionable goals - every Friday afternoon, before I log off, I make a list of all the work I did that week (including any important meetings, talks or conferences), the tasks to be done in the next week (crossing checklists is my favourite thing!), highlight any new conceptual ideas I had, and anything that was challenging that week (everything from a mental funk to frustratingly faulty equipment). This weekly update to myself keeps me on track and allows me to reflect on what I'm doing as I'm doing it.
+   * This can be combined with the actionable tasks from the meeting notes with your PI or collaborators.
+
+I have created a [starter folder](/files/ProjectName.zip) for a new project if you want to see how I organise my data and code (it was heavily influenced by Prof. Chaitanya Gokhale's starter folder). It's an example of all the points I've described above.
 
 -----
 ## **Offering Feedback and Guidance**
@@ -101,10 +105,7 @@ Three years ago, I would spend days drafting and editing emails to professors to
 
 If you would like an extra pair of eyes on your writing or work, please feel free to reach out to me. I'd be happy to talk about my experience and give you my feedback (perhaps with a slight delay). But keep in mind that my qualifiations are just this: a first-year PhD student, who went through PhD application process, and has some experience presenting at symposiums and conferences.
 
-Additionally, if you're travelling to Vienna (and Europe) for the first time, particularly if you're a woman from a marginalised background, I would be glad to help you navigate the city in the first few days. I can offer tips and help you settle in during your initial days. Just send me an email a few days in advance. 
-
-PS. I'm starting my PhD in September 2024, but will likely only be of help in Vienna from 2025 onwards!
-
+Additionally, if you're travelling to Vienna (and Europe) for the first time, particularly if you're a person from a marginalised background, I would be glad to help you navigate the city in the first few days - I can offer tips and help you settle in. Just send me an email a few days in advance. 
 
 -----
 ## **Miscellaneous**
@@ -134,6 +135,8 @@ PS. I'm starting my PhD in September 2024, but will likely only be of help in Vi
 
 <img src="/images/resources/tools2.jpg" alt="image" style="width:300px;height:auto;float:right;margin:0px 20px;">
 
+* [Zotero](https://www.zotero.org/) - An open-source reference management software to organise and cite scientific literature. It has a lot of useful plugins, integrating it across platforms.  
+* [Obsidian](https://obsidian.md/) - A note taking app that stores files locally and allows you to connect notes, to create a wikipedia for yourself.
 * [Scite](https://scite.ai/) - A tool for discovering and evaluating related papers based on where the given paper was scited.
 * [Connected Papers](https://www.connectedpapers.com/) - A website to discover the most relevant prior and derivative works of a paper, and visualise the knowledge landscape of a feild.
 * [DeepLabCut](https://www.mackenziemathislab.org/deeplabcut) - A markerless pose estimation tool, based on transfer learning with deep neural networks. Works in laboratory conditions with a minimal training dataset.
@@ -141,16 +144,11 @@ PS. I'm starting my PhD in September 2024, but will likely only be of help in Vi
 * [LabelStudio](https://labelstud.io/) - Open source data labelling platform to create training data or validate AI models.
 * [Fort-Studio](https://github.com/formicidae-tracker/myrmidon) - An API and graphical interface to facilitate access and analyzis of manage and visualize large Ant tracking datasets.
 
-#### Useful Cheat Sheets
+-----
 
-* [Python - Pandas](/files/cs_pandas.pdf)
-* [Python - Matplotlib](/files/cs_matplotlib.pdf)
-* [Python - Seaborn](/files/cs_seaborn.pdf)
-* [R - Basic](/files/cs_base_r.pdf)
-* [R - GGPlot2](/files/cs_ggplot2.pdf)
-* [Julia](https://cheatsheet.juliadocs.org/)
-* [FFMpeg](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) and [FFMpeg explorer](https://ffmpeg.lav.io/)
-* [Latex](/files/cs_latex.pdf)
+## **Cheat Sheets**
+
+| [<img src="/images/resources/cs_pandas.png" width="105">](/files/cs_pandas.pdf)  |  [<img src="/images/resources/cs_matplotlib.png" width="105">](/files/cs_matplotlib.pdf)  |  [<img src="/images/resources/cs_seaborn.png" width="105">](/files/cs_seaborn.pdf)  |  [<img src="/images/resources/cs_r.png" width="105">](/files/cs_base_r.pdf)  |  [<img src="/images/resources/cs_ggplot2.png" width="105">](/files/cs_ggplot2.pdf)  |  [<img src="/images/resources/cs_julia.png" width="105">]([/files/cs_.pdf](https://cheatsheet.juliadocs.org/))  |   [<img src="/images/resources/cs_ffmpeg.png" width="105">]([/files/cs_.pdf](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730))  |  [<img src="/images/resources/cs_latex.png" width="105">](/files/cs_latex.pdf)  |
 
 -----
 
@@ -172,5 +170,14 @@ Info - Cyan
 Border+Primary - blue outline, grey fill
 
 <a class="nav-item nav-link " href="/files/CV - Vasudha Kulkarni.pdf">CV</a>
+
+* [Python - Pandas](/files/cs_pandas.pdf)
+* [Python - Matplotlib](/files/cs_matplotlib.pdf)
+* [Python - Seaborn](/files/cs_seaborn.pdf)
+* [R - Basic](/files/cs_base_r.pdf)
+* [R - GGPlot2](/files/cs_ggplot2.pdf)
+* [Julia](https://cheatsheet.juliadocs.org/)
+* [FFMpeg](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) and [FFMpeg explorer](https://ffmpeg.lav.io/)
+* [Latex](/files/cs_latex.pdf)
 
  -->

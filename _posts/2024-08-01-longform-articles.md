@@ -18,7 +18,15 @@ My friend Divyansh, introduced me to the idea of [digital gardens](https://www.t
 
 #### A list of articles, in order of when I read them - 
 
-* [How to Stay Alive and Horny Under Authoritarianism](https://buttondown.com/theswordandthesandwich/archive/how-to-stay-alive-and-horny-under-authoritarianism/)
+Last updated: 15-02-2025
+
+
+* [_Heirlooms_](https://medium.com/@behindthedesk/heirlooms-017753d86357) by Prakriti
+* [_The art of Sleeping in Seminars_](https://physics.illinois.edu/calendar/seminars/the-art-of-sleeping-in-seminars) by V. Gates, Empty Kangaroo, M. Roachcock, and W.C. Gall.
+
+  > _"5. If possible, choose a chair with padding. Plastic and metal chairs also fall noisely."_
+  
+* [_How to Stay Alive and Horny Under Authoritarianism_](https://buttondown.com/theswordandthesandwich/archive/how-to-stay-alive-and-horny-under-authoritarianism/) by Talia Levin
 * [_Multiple Fractures_ ](https://www.telegraphindia.com/opinion/multiple-fractures-numerous-fault-lines-await-indias-new-government/cid/2023896) : _Numerous Fault Lines Await India's New Government_ by Ramchandra Guha
 * [_Let My Country Awake_](https://shankarraman.in/2024/04/05/l/) by T.R. Shankar Raman
 
