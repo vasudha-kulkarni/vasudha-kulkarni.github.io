@@ -18,10 +18,16 @@ My friend Divyansh, introduced me to the idea of [digital gardens](https://www.t
 
 #### A list of articles, in order of when I read them - 
 
-Last updated: 15-02-2025
+Last updated: 01-06-2025
 
 
-* [_Heirlooms_](https://medium.com/@behindthedesk/heirlooms-017753d86357) by Prakriti
+* [_The Case Against Travel_](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel) by Agnes Callard
+* [_For the Love of Jim and Pam_](https://www.news9live.com/art-culture/cinema/for-the-love-of-jim-and-pam-why-theres-no-disgrace-in-loving-for-a-living-154287) : Why there's no disgrace in loving for a living by Rahul Desai
+
+  > _"Either way, the stability of loving is routinely ruptured to pursue the restlessness of living."_
+  
+* [_Absurd Trolley Problems_](https://neal.fun/absurd-trolley-problems/) by Neal Agarwal (not an article - but really fun!)
+* [_Heirlooms_](https://medium.com/@behindthedesk/heirlooms-017753d86357) by Prakriti Singh
 * [_The art of Sleeping in Seminars_](https://physics.illinois.edu/calendar/seminars/the-art-of-sleeping-in-seminars) by V. Gates, Empty Kangaroo, M. Roachcock, and W.C. Gall.
 
   > _"5. If possible, choose a chair with padding. Plastic and metal chairs also fall noisely."_

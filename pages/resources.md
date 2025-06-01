@@ -130,6 +130,7 @@ Additionally, if you're travelling to Vienna (and Europe) for the first time, pa
 * [The Python Graph Gallery](https://python-graph-gallery.com/) - A collection of various types of graphs plotted using Python libraries. It also has a greate Python [color palette finder](https://python-graph-gallery.com/color-palette-finder/)!
 * [Pylustrator](https://pylustrator.readthedocs.io/en/latest/#) - It is a python-based software to prepare your figures for publication in a reproducible way. It offers an interactive interface to find the best way to present your data in a figure for publication.
 * [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends) - DOs and DONTs to making good plots.
+* [Fireflies](https://ncase.me/fireflies/) by Nicky Case - An incredible interactive website to visualise the model describing firefly synchronisation
 
 #### Useful tools I've used in my research 
 
@@ -148,7 +149,7 @@ Additionally, if you're travelling to Vienna (and Europe) for the first time, pa
 
 ## **Cheat Sheets**
 
-| [<img src="/images/resources/cs_pandas.png" width="105">](/files/cs_pandas.pdf)  |  [<img src="/images/resources/cs_matplotlib.png" width="105">](/files/cs_matplotlib.pdf)  |  [<img src="/images/resources/cs_seaborn.png" width="105">](/files/cs_seaborn.pdf)  |  [<img src="/images/resources/cs_r.png" width="105">](/files/cs_base_r.pdf)  |  [<img src="/images/resources/cs_ggplot2.png" width="105">](/files/cs_ggplot2.pdf)  |  [<img src="/images/resources/cs_julia.png" width="105">]([/files/cs_.pdf](https://cheatsheet.juliadocs.org/))  |   [<img src="/images/resources/cs_ffmpeg.png" width="105">]([/files/cs_.pdf](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730))  |  [<img src="/images/resources/cs_latex.png" width="105">](/files/cs_latex.pdf)  |
+| [<img src="/images/resources/cs_pandas.png" width="105">](/files/cs_pandas.pdf)  |  [<img src="/images/resources/cs_matplotlib.png" width="105">](/files/cs_matplotlib.pdf)  |  [<img src="/images/resources/cs_seaborn.png" width="105">](/files/cs_seaborn.pdf)  |  [<img src="/images/resources/cs_r.png" width="105">](/files/cs_base_r.pdf)  |  [<img src="/images/resources/cs_ggplot2.png" width="105">](/files/cs_ggplot2.pdf)  |  [<img src="/images/resources/cs_julia.png" width="105">](https://cheatsheet.juliadocs.org/)  |   [<img src="/images/resources/cs_ffmpeg.png" width="105">](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)  |  [<img src="/images/resources/cs_latex.png" width="105">](/files/cs_latex.pdf)  |
 
 -----
 

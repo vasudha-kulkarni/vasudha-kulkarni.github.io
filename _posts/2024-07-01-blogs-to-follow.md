@@ -7,6 +7,9 @@ description: A list of the blogs I follow along with my favourite posts.
 ---
 
 Most of the articles I read are recommended to me through mailing lists from the blogs that I follow. There are a bunch of blogs about academia that might be of interest to other aspiring academics. I also like reading about books, writing, and other curious things. Here is a list of all the blogs that I follow, with a link to their most interesting posts.
+
+Last updated: 01-06-2025
+
 <!-- ### <ins>Academia blogs</ins> -->
 <br/><br/>
 
@@ -33,10 +36,7 @@ It's a blog maintained by an Australian early-career ecologist that has posts on
 #### 7. _India Bioscience_
 It's a platform that engages with life sciences in academia, industry and government at various levels. Subscribing to their newsletter alerts you to job ooportunities in Indian life sciences realm, and interesting talks and interviews. They invite people to write columns on several topics, including PhD journeys, education, early career experience and so on. Here is an important peace on [money and mental health during PhD](https://indiabioscience.org/columns/indian-scenario/money-mental-health-indian-academia).
 
-#### 8. _Publish not Perish_ by Jenn McClearen
-This is a blog for PhD students or early career researchers who want to work on their writing, develop a writing practice and navigate academic culture. Here is an interesting list of strategies to [finding and honing your argument](https://www.publishnotperish.net/p/a-few-strategies-for-finding-your). The posts cover a wide range - from advice on writing grant proposals and literature reviews to focusing on maintaining balance while being a parent. It seems quite useful, but sadly, a lot of the posts require upgrading to a paid subscription.
-
-#### 9. _Research Whisperer_ by Tseen Khoo and Jonathan O'Donnell
+#### 8. _Research Whisperer_ by Tseen Khoo and Jonathan O'Donnell
 They write about research culture, how to navigate grants-speak, building your research track-record and other things academia. Here is an interesting post on [how to write a grant application](https://researchwhisperer.org/2023/12/12/how-long-will-it-take-to-write-an-application/).
 
 <!-- ### <ins>Science-y blogs</ins> -->
@@ -47,13 +47,16 @@ They write about research culture, how to navigate grants-speak, building your r
 #### 1. _Reflections on Paper Past_ by Hari Sridhar
 This blog gives you a behind-the-scenes view on seminal papers in ecology and evolution. Sridhar has been interviewing authors to ask them about their experience while working on the paper, what they think of it so many years later and how it has impacted the feild. My favourite is this interview with [Sarah Blaffer Hrdy](https://reflectionsonpaperspast.wordpress.com/2018/01/02/revisiting-hrdy-1974/) on her study of infanticide as a reproductive strategy for male langurs of Abu. The blog now has [a new website](https://reflectionsonpaperspast.com/) with selected quotes, annotated papers, visual archive and more!
 
-#### 2. _Liminal_ by Liz Neeley and Ambika Kamath
+#### 2. _Seeds of Science_ 
+_Seeds of Science_ is a foundation and a blog that aims to nurture blossoming ideas in science and help transform them into scientific innovation. I enjoyed reading about [_Conservatism in Science_](https://www.theseedsofscience.pub/p/conservatism-in-science) by Matt Clancy and the trade-off in supporting truly novel ideas and how existing knowledge might not be the best at estimating them. 
+
+#### 3. _Liminal_ by Liz Neeley and Ambika Kamath
 They are a science communication collective who help make sense of science. This reflective post in their newsletter by Neeley on how to [navigate through emotions in a rational argument](https://www.liminalcreations.com/newsletter/when-an-immovable-fact-meets-an-unstoppable-feeling) is very stimulating.
 
-#### 3. _Scattterings_ by G. V. Pavan Kumar
+#### 4. _Scattterings_ by G. V. Pavan Kumar
 This is a blog with interviews of Indian scientists from various disciplines, and several posts by Pavan on the history and process of scientific ideas and development. This blog tries to humanise science and make it accessible to a wider audience.
 
-#### 4. _Rapid Uplift_ by Suvrat Kher
+#### 5. _Rapid Uplift_ by Suvrat Kher
 In this newsletter, Kher explores new research in geology and shares his experience of visiting different landscapes and geologic terrains through pictures and videos. Here is an interesting one on [deep sea mining](https://rapiduplift.substack.com/p/rapid-uplift-deep-sea-mining-indian). To be perfectly candid (imitating Rosa Diaz), I sometimes skim through the text when the post gets technical.
 
 <!-- ### <ins>Other blogs</ins> -->
@@ -74,15 +77,19 @@ I was drawn to this blog through Subramanian's biography of JBS Haldane, _A Domi
 #### 4. _View from the Elephant Hills_ by T.R. Shankar Raman
 Shankar Raman is a wildlife biologist and conservationist turned writer who writes from the Anamalai Hills. This is his personal blog reflecting on his experiences and journeys. I highly recommend this post on his experience reading books written only by women in 2019, titled [_Listen to Her_](https://shankarraman.in/2020/01/09/listen-to-her/).
 
-#### 5. _The Marginalian_ by Maria Popova
+#### 5. Prakriti Singh's blog
+Prakriti Singh is a writer based in Bengaluru and she regularly writes about her experiences and observations, which resonates with me. Her writing is simple, yet moving. Read about what we inherit from our parents in her article titled [_Heirlooms_](https://medium.com/@behindthedesk/heirlooms-017753d86357).
+
+#### 6. _The Marginalian_ by Maria Popova
 Previously titled _Brain Pickings_, this blog stems out of Popova's quest for meaning. She reads vastly about science, philosophy, literature, art -- and brings it all together in her writings. Popova has also written a brilliant book -- [_Figuring_](https://www.themarginalian.org/figuring/) -- exploring the human search for truth and meaning through an epistolary biopgraphy, with beautiful prose, of female scientists, artists, writers and poets from 17th century. I think it's a book everyone should have in their homes. Here is a great post on Rachel Carson's _Silent Spring_ that [started an envrionmental movement in the US](https://www.themarginalian.org/2017/01/27/rachel-carson-silent-spring-dorothy-freeman/).
 
-
-#### 6. _Literary Hub_
+#### 7. _Literary Hub_
 [_Literary Hub_](https://lithub.com/) is a website about all things books -- there's literary criticism, new book reviews, reading lists, interviews and tons of articles on a wide range of topics that intersect with literature. Subscribing to their newsletter can feel _a little_ spammy, but it's a great place to visit when you want something new to read.
 
+#### 8. _The Third Eye_
+_The Third Eye_ is an organisation working at the intersection of gender, caste, labour and education, and they publish a lot of material from marginalised voices and creates a learning platform educators, grassroot workers and policy makers. I really enjoyed reading this article called [_Will You Hide the Body with Me?_](https://thethirdeyeportal.in/praxis/will-you-hide-the-body-with-me/) by Vijeta Kumar, discussing female friendships and criminals!
 
-#### 7. _Nevermind_ by Andrew Potter
+#### 9. _Nevermind_ by Andrew Potter
 In this substack, Potter writes about the 'forgotten history of Gen X'. Here's an interesting post for you - [do you remember your pre-internet brain?](https://nevermindgenx.substack.com/p/do-you-remember-your-pre-internet)
 
 ------
