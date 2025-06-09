@@ -22,7 +22,7 @@ Last updated: 01-06-2025
 
 
 * [_The Case Against Travel_](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel) by Agnes Callard
-* [_For the Love of Jim and Pam_](https://www.news9live.com/art-culture/cinema/for-the-love-of-jim-and-pam-why-theres-no-disgrace-in-loving-for-a-living-154287) : Why there's no disgrace in loving for a living by Rahul Desai
+* [_For the Love of Jim and Pam_](https://www.news9live.com/art-culture/cinema/for-the-love-of-jim-and-pam-why-theres-no-disgrace-in-loving-for-a-living-154287) _: Why there's no disgrace in loving for a living_ by Rahul Desai
 
   > _"Either way, the stability of loving is routinely ruptured to pursue the restlessness of living."_
   
