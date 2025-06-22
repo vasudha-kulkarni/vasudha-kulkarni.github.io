@@ -27,7 +27,7 @@ This page contains relevant information about the notes compiled by Vasudha Kulk
 2. Few courses have an index in the beginning, where page numbers correspond to the page number written at the corner. For a few courses, I have also scanned the summary sheets at the end, as well as quizzes/assignments.
 3. <ins>Significantly incomplete notes</ins>: Ecology 2 and Animal Physiology 2 are somewhat incomplete - Ecology 2 doesn’t have all the notes from the assigned papers, and I missed quite a few of AP2 classes and suffered for the lack of recorded lectures. General Physical Chemistry notes are also incomplete towards the end. Evolution of Landscapes notes is incomplete in the middle, which covers modules on plate tectonics and the Himalayas, which were covered by Dr Ramendra Sahoo.
 
-The PDF files are linked to the course names in the table below. If you have any questions or comments, please feel free to contact me via email. And let me know which notes you found the most useful :blush:
+The PDF files are linked to the course names in the table below. If you have any questions or comments, please fill out this [google form](https://forms.gle/LPbYMCeHwLD2fAyq8). Feel free to let me know which notes you found the most useful! :blush:
 
 | Course Name                                                                                 | Semester    | Instructors   |
 | ------------------------------------------------------------------------------------------- |:-----------:| --------------|
@@ -114,7 +114,8 @@ Additionally, if you're travelling to Vienna (and Europe) for the first time, pa
 * [Resources and Advice for Students and Postdocs](https://keoghlab.com/resources-and-advice-for-students) by Dr. Scott Keogh (Professor at Australian National University). It contains a list of useful resources and pages for PhD students on how to deal with a grad school life in general, writing papers, presenting your work, advice on getting an academic job and so on.
 * [Resources page](https://teelabiisc.wordpress.com/resources-2/) by Dr. Vishu Guttal (Professor at the Indian Institute of Science). This page contains a great list of resources for professional and technical skills for academics, along with some funding/job opportunities specific to India.
 * [Resource page](https://thepandalorian.github.io/resources/) by Shikhara Bhat (PhD student at Johannes Gutenberg University). It's a great compilation of interesting articles on theoretical biology, science book recommendations for aspiring evolutionary biologists, and resources for coding, data visualisation and presentation.
-* [Writing resources](https://scientistseessquirrel.wordpress.com/writing-resources/) by Stephen B. Heard (Professor at University of New Brunswick). In addition to this collection of useful books, blogs and websites, Heard's book _A Scientist's Guide to Writing_ is also an excellent writing resource.
+* [Writing resources](https://scientistseessquirrel.wordpress.com/writing-resources/) by Prof. Stephen B. Heard (Professor at University of New Brunswick). In addition to this collection of useful books, blogs and websites, Heard's book _A Scientist's Guide to Writing_ is also an excellent writing resource.
+* [Tools for Science](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science) by Dr. Arjun Raj (Professor at University of Pennsylvania). Arjun Raj and his team have collected and curated a bunch of useful tools for academia - how to give a good talk, navigating your PhD, creating good figures and a lot more!
 * [Resources](https://indiabioscience.org/resources) by IndiaBioScience. This page compiles resources for early career biology academics in India - from education and mental health to outreach grants and funding opportunities.
 
 #### Useful tools for scientific illustration and visualisation
@@ -125,6 +126,7 @@ Additionally, if you're travelling to Vienna (and Europe) for the first time, pa
 * [Biorender](https://www.biorender.com/) - Allows you to choose from lots of icons to put together illustration of experiments and scientific processes. The premium version can be used to make unlimited illustrations, posters and request certain icons.
 * [Phylopic](https://www.phylopic.org/) - Free silhouette images of animals, plants, and other life forms, available for reuse under Creative Commons licenses.
 * [Bioicons](https://bioicons.com/) -  Free library of open source icons for scientific illustrations using vector graphics software such as Inkscape or Adobe Illustrator.
+* [Public Domain Review](https://publicdomainreview.org/) - It's an online journal that curates compelling works of art and literature that have recently come into the public domain. It's a good source of inspiration to search for interesting illustrations to accompany your [articles](../_posts/2025-06-01-pushing-academic-boundaries.md).
 * [ColorBrewer](https://colorbrewer2.org/) - Color advice for cartography and plotting, can choose colors based on the type of dataset.
 * [Paletton](https://paletton.com/) - A tool for creating color combinations that work together well.
 * [The Python Graph Gallery](https://python-graph-gallery.com/) - A collection of various types of graphs plotted using Python libraries. It also has a greate Python [color palette finder](https://python-graph-gallery.com/color-palette-finder/)!

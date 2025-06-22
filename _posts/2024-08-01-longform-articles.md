@@ -18,9 +18,10 @@ My friend Divyansh, introduced me to the idea of [digital gardens](https://www.t
 
 #### A list of articles, in order of when I read them - 
 
-Last updated: 01-06-2025
+Last updated: 22-06-2025
 
 
+* [_The Bandaya Literary Movement: Ebbs and Tides_](https://map.sahapedia.org/article/The-Bandaya-Literary-Movement:-Ebbs-and-Tides--Bandaya-in-Kannada-means-Rebel-or-Rebellion/10660) by Swati Simha
 * [_The Case Against Travel_](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel) by Agnes Callard
 * [_For the Love of Jim and Pam_](https://www.news9live.com/art-culture/cinema/for-the-love-of-jim-and-pam-why-theres-no-disgrace-in-loving-for-a-living-154287) _: Why there's no disgrace in loving for a living_ by Rahul Desai
 

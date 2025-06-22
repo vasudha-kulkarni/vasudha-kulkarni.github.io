@@ -51,7 +51,7 @@ Once I had established that there is indeed a leaky pipeline and that it affects
 
 Since I had observed a difference across disciplines, I wanted to test if female PIs in certain disciplines (such as math and physics) have a higher proportion of female scientists in their groups. I wanted to do a pair-wise MannWhitney-U test between male and female PIs in each discipline, but I couldn't because the mathematics department at ISTA in 2024 didn't have even a single female PI (out of 9 PIs) and the computer science department had only one female PI (1/11 PIs). This already points to a stark gap in the institute. But, from the figure below, we can see the expected trend in Chemistry and Computer Science, but not in Physics. Alas, we cannot draw any conclusions from such trends.
 
-<img src="/images/projects/proj_leaky7.png" alt="image" style="width:900px;height:auto;">
+<img src="/images/projects/proj_leaky7.png" alt="image" style="width:600px;height:auto;">
 
 In a final attempt, I tried to model the sex ratio using GLMs, with the sex ratio as the response variable, the sex of the PI and their field as the response variables, and the binomial distribution for proportion data. I played around with different variables, but the sex of the PI was never a significant predictor of the sex ratio in a group. Hence, we can say that male and female PIs have similar proportion of female scientists in their group. 
 

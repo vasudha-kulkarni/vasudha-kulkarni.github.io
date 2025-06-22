@@ -6,6 +6,8 @@ color: info
 description: Notes to self on learning new things in science. 
 ---
 
+{% include elements/figure.html image="../images/blog/blog_boundaries.png" caption="Plate XIX from the first volume of Pettigrew’s Design in Nature (1908), illustrating the resemblance between spiral shell formations and bony portions of the inner ear" %}
+
 I started my PhD in September 2024 at the Institute of Science and Technology Austria (ISTA) and my PhD program is distinct in Europe for having a rotation system. PhD students in their first year can work with different research groups to find a good fit and explore new disciplines. I took advantage of this system and I am currently in Würzburg for two months, doing an external rotation with [Prof. Chaitanya Gokhale](https://tecoevo.github.io/people/chaitanya/) at the Centre for Computational and Theoretical Biology at the University of Würzburg. 
 
 If you have read about my previous projects, you would know that I come from a background in ethology, having worked with different animal species, but largely in an experimental context. More broadly, during my undergraduate studies, I took courses in ecology and evolution, and some advanced ones in statistics and computational biology. And now, I am currently working with a theoretical biologist, learning how to model disease transmission in networks. During my first two weeks here, several people asked me (with some surprise) about my interest and desire to work in theoretical biology and modelling given my roots in experimental biology. This shift has been a long time coming, but it made me think more consciously about my evolving interests.
@@ -37,6 +39,9 @@ If you've made it till here, how do you push yourself to do new things? I always
 --------------
 
 <sup>1</sup> Stroeymeyt et al., 2018; Rajendran et al., 2022; Vicsek et al., 1995; Canteloup et al., 2020; Averly et al., 2022
+
 <sup>2</sup> Do as I say and not as I do :P
+
 <sup>3</sup> [_"I transferred my loyalty away from the thing in front of me and toward what I could achieve."_](https://www.henrikkarlsson.xyz/i/142697510/feedback-from-others)
+
 <sup>4</sup> Marder, Eve. 2020. “Theoretical Musings.” _eLife_ 9 (August):e60703. [https://doi.org/10.7554/eLife.60703](https://doi.org/10.7554/eLife.60703).

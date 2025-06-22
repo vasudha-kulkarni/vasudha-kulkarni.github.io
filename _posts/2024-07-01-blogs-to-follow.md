@@ -27,16 +27,19 @@ McGlynn is a professor at Cal State Dominguez Hills and his substack focuses on 
 #### 4. _Academia Made Easier_ by Loleen Berdahl
 This is a newsletter where Loleen shares ideas, hacks, tricks, practices, and automations that have helped her not just survive in academia but made her feel a sense of relative calm. Reading this post on [taking some time to organize](https://loleen.substack.com/p/how-to-invest-an-hour-now-to-make) your upcoming week made me feel validated about [my own methods](/resources/#research-project-organisation) of organisation.
 
-#### 5. _Thesis Whisperer_ by Inger Mewburn
+#### 5. _The Eighteenth Elephant_ by Raghuveer Parthasarathy
+Parthasarathy is a professor and in the blog, he writes about research and teaching in a US university. I enjoyed reading about his article on [teaching introductory physics to non-major undergrads](https://eighteenthelephant.com/2025/04/11/the-most-important-and-the-most-pointless-course-ive-taught/) and I look forward to the illustrations included in his articles! 
+
+#### 6. _Thesis Whisperer_ by Inger Mewburn
 This blog is dedicated to the topic of doing a PhD and 'being an academic in the neo-liberal precarious academy that we (kinda) love'. Mewburn is an academic and director for researcher development at ANU. She has a lot of great writing resources and organizes workshops to help academics write better. I thought that this post on [what neurodivergent PhD students need](https://thesiswhisperer.com/2024/03/02/what-do-neurodivergent-phd-students-need/) was quite interesting. And this post on [academic tidying up](https://thesiswhisperer.com/2024/02/03/the-academic-tidy-up/) speaks to my soul!
 
-#### 6. _Ecology is not a dirty word_ by Manu Sanders
+#### 7. _Ecology is not a dirty word_ by Manu Sanders
 It's a blog maintained by an Australian early-career ecologist that has posts on both, insect ecology and navigating academia. Here is an interesting meta post on [readership and the academic blogosphere](https://ecologyisnotadirtyword.com/2024/01/19/social-media-declines-and-the-academic-blogosphere/).
 
-#### 7. _India Bioscience_
+#### 8. _India Bioscience_
 It's a platform that engages with life sciences in academia, industry and government at various levels. Subscribing to their newsletter alerts you to job ooportunities in Indian life sciences realm, and interesting talks and interviews. They invite people to write columns on several topics, including PhD journeys, education, early career experience and so on. Here is an important peace on [money and mental health during PhD](https://indiabioscience.org/columns/indian-scenario/money-mental-health-indian-academia).
 
-#### 8. _Research Whisperer_ by Tseen Khoo and Jonathan O'Donnell
+#### 9. _Research Whisperer_ by Tseen Khoo and Jonathan O'Donnell
 They write about research culture, how to navigate grants-speak, building your research track-record and other things academia. Here is an interesting post on [how to write a grant application](https://researchwhisperer.org/2023/12/12/how-long-will-it-take-to-write-an-application/).
 
 <!-- ### <ins>Science-y blogs</ins> -->
