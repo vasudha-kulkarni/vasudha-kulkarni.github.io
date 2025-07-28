@@ -18,8 +18,12 @@ My friend Divyansh, introduced me to the idea of [digital gardens](https://www.t
 
 #### A list of articles, in order of when I read them - 
 
-Last updated: 22-06-2025
+Last updated: 09-07-2025
 
+
+* [_Estranged: Ramadan 2025_](https://afnanhassab.substack.com/p/estranged-ramadan-2025) by Afnan Hassab E. Siddig
+  
+  > _"So much of who I am is tied to the state of my home country, yet I hesitate to bring it up in conversation. War is a three-letter word that functions like a full stop. Once it is introduced into a conversation, it brings it to an end, leaving behind awkward silence and downcast eyes. So I try not to bring it up too often."_
 
 * [_The Bandaya Literary Movement: Ebbs and Tides_](https://map.sahapedia.org/article/The-Bandaya-Literary-Movement:-Ebbs-and-Tides--Bandaya-in-Kannada-means-Rebel-or-Rebellion/10660) by Swati Simha
 * [_The Case Against Travel_](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel) by Agnes Callard
@@ -42,7 +46,7 @@ Last updated: 22-06-2025
 * [_How Caste Smells_ ](https://behanbox.com/2024/04/02/how-caste-smells-notes-from-a-south-asian-beauty-salon-in-london/) : _Notes From A South-Asian Beauty Salon in London_ by Nandita Dutta
 * [_The Quality Control Interview for Big Classes_](http://bactra.org/weblog/2024/03/23/) by Cosma Rohilla Shalizi
 * [_AWOL from Academics_](https://www.harvardmagazine.com/2024/03/university-people-the-undergraduate-balance) by Aden Barton
-* [_On limitations that hide your blindspot_](https://www.henrikkarlsson.xyz/p/limitatons?utm_source=post-email-title&publication_id=313411&post_id=142697510&utm_campaign=email-post-title&isFreemail=true&r=2a2h8p&triedRedirect=true&utm_medium=email) by Henrik Karlsson and Johanna Wiberg
+* [_On limitations that hide your blindspot_](https://www.henrikkarlsson.xyz/p/limitatons) by Henrik Karlsson and Johanna Wiberg
 
   > _"But there was also a deeper mental shift for me. I transferred my loyalty away from the thing in front of me and toward what I could achieve."_
 
@@ -51,9 +55,11 @@ Last updated: 22-06-2025
 * [_A National Evil_](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil) by Jonah Goodman
 * [_Things I Wish I Could Tell Every Woman_](https://righttorestandexcel.substack.com/p/things-i-wish-i-could-tell-every?fbclid=PAAaaIx4MgoKBW7PrEGFbEkLb_4QWNp_2Q2Frzg7917r-JqnhWUTIdcdT9pXY) by Ankita Apurva
 
-  > _"A man—any man, is a companion or a junction but never your identity or your destination. And no man who loves you will waste your time. Please don't while your years away. Very few girls get a 'second chance' of focusing on their existence, let alone a third or a fourth. Before you know it, your relatives will start bringing arranged marriage proposals of men seven years older to you—do not. Okay. Work hard. Very hard. Rest well. Very well. Not only because you want to escape abuse and be safe but also because you deserve to enjoy and be celebrated."_
+  > _"A man — any man, is a companion or a junction but never your identity or your destination. And no man who loves you will waste your time. Please don't while your years away. Very few girls get a 'second chance' of focusing on their existence, let alone a third or a fourth. Before you know it, your relatives will start bringing arranged marriage proposals of men seven years older to you—do not. Okay. Work hard. Very hard. Rest well. Very well. Not only because you want to escape abuse and be safe but also because you deserve to enjoy and be celebrated."_
 
+<!--
 * [_'A Certain Danger Lurks There'_](https://amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai) : _How the inventor of the first chatbot turned against AI_ by Ben Tarnoff
+-->
 * [_Trial by Fire_](https://enthucutlet.com/enthuoriginals/playing-with-fire/trial-by-fire/) by Meera Ganapathi
 
   > _"In fact, I believe that you can spot a seasoned cook by their tolerance to heat. They have fireproof fingers that hold searing iron pans without the trace of a wince. They can be identified with brown-black tattoos on their wrists and arms from years of being splashed by boiling oil and burnt by hot vessels."_
@@ -69,8 +75,10 @@ Last updated: 22-06-2025
 
   > _"As I watched the Blue Tiger Moth caterpillar languidly moving up a plant in my husband’s ancestral house in Kasargod, I heard my mother-in-law in the kitchen, cooking breakfast for the rest of the family. Before my husband and I went in to help her, I wondered how women burdened with care-giving find the time and support to access public spaces and observe the wondrous strategies of butterflies to escape predation—when the predator named patriarchy is still very much at large."_
 
-* [_Indira Gandhi_](http://shankarraman.in/2022/06/15/indira-gandhi-one-earth-one-environment-one-humanity/) : One earth, One environment, One humanity by T.R. Shankar Raman
-* [_We need a multi-pronged approach to end child marraige_](https://indianexpress.com/article/opinion/columns/child-marriage-education-covid-pandemic-7639949/) by Uma Mahadevan Dasgupta
+* [_Indira Gandhi_](http://shankarraman.in/2022/06/15/indira-gandhi-one-earth-one-environment-one-humanity/) : _One earth, One environment, One humanity_ by T.R. Shankar Raman
+ <!--
+ * [_We need a multi-pronged approach to end child marriage_](https://indianexpress.com/article/opinion/columns/child-marriage-education-covid-pandemic-7639949/) by Uma Mahadevan Dasgupta
+ -->
 * [_Studying the Antlion Taught Me How to be Human_](https://magazine.catapult.co/column/stories/ambika-kamath-studying-antlion-taught-me-how-to-be-human-behavioral-ecology-science-nature) by Ambika Kamath
 
   > _"I eventually came to understand that, as a behavioral ecologist, I was asking of the natural world the very questions I was too scared to ask of myself and those around me. I had so many questions about how to exist in this world, and it seemed impossible that a single organism could hold all the answers. Rather, I found that different creatures hold the keys to different doors, with each door leading away from a different difficult situation. After all, any living creature on this planet has an evolutionary history exactly as long as the evolutionary history of any other living creature, stretching billions of years between the moment when life began and right now."_
