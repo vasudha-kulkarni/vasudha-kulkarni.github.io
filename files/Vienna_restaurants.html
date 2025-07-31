@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vienna Restaurants</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map { height: 400px; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([48.21455956522674, 16.36840639197022], 12); // Vienna coordinates
+        
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+        
+        // Add markers for your specific places
+//        L.marker([48.23368236165984, 16.376448145623833]).addTo(map)
+//            .bindPopup('Home');
+
+        L.marker([48.19731787647284, 16.344462084644242]).addTo(map)
+            .bindPopup('Gaon Korean Restaurant');
+        
+        L.marker([48.21497211026481, 16.386905415952793]).addTo(map)
+            .bindPopup('Seoul Restaurant');
+
+        L.marker([48.19327267265782, 16.37043245121127]).addTo(map)
+            .bindPopup('La Taqueria Chiquitata');
+
+        L.marker([48.19973179946212, 16.365781261166603]).addTo(map)
+            .bindPopup('Tofu and Chili');
+
+        L.marker([48.19440443093805, 16.403349209855488]).addTo(map)
+            .bindPopup("Lili's Kitchen");
+
+        L.marker([48.21063817255144, 16.376170439335354]).addTo(map)
+            .bindPopup("Heindl's Schmarren");
+
+        L.marker([48.20628668494647, 16.350220380364746]).addTo(map)
+            .bindPopup('Papaya');
+
+        L.marker([48.21658966194627, 16.376410245965758]).addTo(map)
+            .bindPopup('Kamala Thai Imbiss');
+
+        L.marker([48.22532701526478, 16.344129545151475]).addTo(map)
+            .bindPopup('Lalibela');
+
+        L.marker([48.21429305873656, 16.335807176739806]).addTo(map)
+            .bindPopup('Mani Yppenplatz');
+
+        L.marker([48.196031451308556, 16.357127910606813]).addTo(map)
+            .bindPopup('Restaurant Apadana');
+
+        L.marker([48.20542506177106, 16.375264553259377]).addTo(map)
+            .bindPopup('Shoyu Ramen');
+
+        L.marker([48.21737964688013, 16.38991669498046]).addTo(map)
+            .bindPopup('Taeko Ramen');
+
+        L.marker([48.21550214810716, 16.379585056376854]).addTo(map)
+            .bindPopup('Tachles');
+
+        L.marker([48.21501475972478, 16.40900875294764]).addTo(map)
+            .bindPopup('Schweizerhaus');
+
+        L.marker([48.20468488103421, 16.35721148444769]).addTo(map)
+            .bindPopup('I Ragazzi Pizzeria');
+
+        L.marker([48.2180003340897, 16.360448515980273]).addTo(map)
+            .bindPopup('Cocore');
+    </script>
+</body>
+</html>

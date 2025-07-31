@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vienna Cafes</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map { height: 400px; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([48.21455956522674, 16.36840639197022], 13); // NYC coordinates
+        
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+        
+        // Add markers for your specific places
+//        L.marker([48.23368236165984, 16.376448145623833]).addTo(map)
+//            .bindPopup('Home');
+
+        L.marker([48.21762389658574, 16.351225953215135]).addTo(map)
+            .bindPopup('Coffee Pirates');
+        
+        L.marker([48.21334948360501, 16.3505980276126]).addTo(map)
+            .bindPopup('Kleines Wiener Cafe');
+
+        L.marker([48.192656984727236, 16.336462198006405]).addTo(map)
+            .bindPopup('GOTA Coffee Experts');
+
+        L.marker([48.20627285447975, 16.355688270552715]).addTo(map)
+            .bindPopup('Das Cafe');
+
+        L.marker([48.20169649530793, 16.361868079585456]).addTo(map)
+            .bindPopup('phil');
+
+        L.marker([48.20232414728333, 16.357376572431217]).addTo(map)
+            .bindPopup('Cafe Kafka');
+
+        L.marker([48.19612753667589, 16.3725349404101]).addTo(map)
+            .bindPopup('Carl Ludwig Cafe');
+
+        L.marker([48.21146000669029, 16.379649671272865]).addTo(map)
+            .bindPopup('Fenster Cafe');
+
+        L.marker([48.224111215528175, 16.341355567791258]).addTo(map)
+            .bindPopup('Cafe Schopenhauer');
+
+        L.marker([48.19762051067124, 16.360074403477114]).addTo(map)
+            .bindPopup('Cafe Savoy');
+    </script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vienna Shops</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map { height: 400px; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([48.21228695615749, 16.365249565906733], 13); // Vienna coordinates
+        
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+        
+        // Add markers for your specific places
+        L.marker([48.19862053489098, 16.363805588032847]).addTo(map)
+            .bindPopup('Naschmarkt');
+
+        L.marker([48.21279491183188, 16.368738299415263]).addTo(map)
+            .bindPopup('Shakespeare and Company');
+        
+        L.marker([48.19695365651553, 16.358056716041382]).addTo(map)
+            .bindPopup('Hafi Books');
+
+        L.marker([48.20400907168376, 16.33804077602546]).addTo(map)
+            .bindPopup('Prosi Exotic Supermarket');
+
+        L.marker([48.20429004690056, 16.351149272759592]).addTo(map)
+            .bindPopup('Iranaeus Kraus');
+
+        L.marker([48.206301687559474, 16.34872978634169]).addTo(map)
+            .bindPopup('Bender Vintage');
+
+        L.marker([48.20440352497997, 16.3533026498151]).addTo(map)
+            .bindPopup('Burggasse 24 Vintage Shop');
+
+        L.marker([48.19117877523112, 16.366403469554875]).addTo(map)
+            .bindPopup('Carla Mittersteig');
+
+        L.marker([48.197053028537674, 16.335717401371603]).addTo(map)
+            .bindPopup('Die Glasfabrik');
+
+        L.marker([48.231782258234574, 16.36907873895473]).addTo(map)
+            .bindPopup('Hannovermarkt');
+        
+    </script>
+</body>
+</html>

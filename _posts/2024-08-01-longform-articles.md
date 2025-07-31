@@ -76,9 +76,11 @@ Last updated: 09-07-2025
   > _"As I watched the Blue Tiger Moth caterpillar languidly moving up a plant in my husband’s ancestral house in Kasargod, I heard my mother-in-law in the kitchen, cooking breakfast for the rest of the family. Before my husband and I went in to help her, I wondered how women burdened with care-giving find the time and support to access public spaces and observe the wondrous strategies of butterflies to escape predation—when the predator named patriarchy is still very much at large."_
 
 * [_Indira Gandhi_](http://shankarraman.in/2022/06/15/indira-gandhi-one-earth-one-environment-one-humanity/) : _One earth, One environment, One humanity_ by T.R. Shankar Raman
+
  <!--
  * [_We need a multi-pronged approach to end child marriage_](https://indianexpress.com/article/opinion/columns/child-marriage-education-covid-pandemic-7639949/) by Uma Mahadevan Dasgupta
  -->
+
 * [_Studying the Antlion Taught Me How to be Human_](https://magazine.catapult.co/column/stories/ambika-kamath-studying-antlion-taught-me-how-to-be-human-behavioral-ecology-science-nature) by Ambika Kamath
 
   > _"I eventually came to understand that, as a behavioral ecologist, I was asking of the natural world the very questions I was too scared to ask of myself and those around me. I had so many questions about how to exist in this world, and it seemed impossible that a single organism could hold all the answers. Rather, I found that different creatures hold the keys to different doors, with each door leading away from a different difficult situation. After all, any living creature on this planet has an evolutionary history exactly as long as the evolutionary history of any other living creature, stretching billions of years between the moment when life began and right now."_
