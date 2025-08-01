@@ -80,7 +80,6 @@ Last updated: 09-07-2025
  <!--
  * [_We need a multi-pronged approach to end child marriage_](https://indianexpress.com/article/opinion/columns/child-marriage-education-covid-pandemic-7639949/) by Uma Mahadevan Dasgupta
  -->
-
 * [_Studying the Antlion Taught Me How to be Human_](https://magazine.catapult.co/column/stories/ambika-kamath-studying-antlion-taught-me-how-to-be-human-behavioral-ecology-science-nature) by Ambika Kamath
 
   > _"I eventually came to understand that, as a behavioral ecologist, I was asking of the natural world the very questions I was too scared to ask of myself and those around me. I had so many questions about how to exist in this world, and it seemed impossible that a single organism could hold all the answers. Rather, I found that different creatures hold the keys to different doors, with each door leading away from a different difficult situation. After all, any living creature on this planet has an evolutionary history exactly as long as the evolutionary history of any other living creature, stretching billions of years between the moment when life began and right now."_
