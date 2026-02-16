@@ -5,16 +5,18 @@ style: border
 color: dark
 description: My favourite things to eat, shop and do in Vienna. 
 ---
-Last updated: 28-07-2025 \\
+Last updated: 16-02-2025 \\
 More to come - underrated museums, Christmas markets and itineraries!
 
 <div style="max-width: 500px; margin: auto;">
     {% capture carousel_images %}
     /images/blog/vienna_cafe.jpg
     /images/blog/vienna_donauinsel.jpg
+    /images/blog/vienna_noodles.jpg
     /images/blog/vienna_donaukanal.jpg
     /images/blog/vienna_korean.jpg
-    /images/blog/vienna_naschmarkt.jpg
+    /images/blog/vienna_ritter.jpg
+    /images/blog/vienna_injera.jpg
     /images/blog/vienna_shakespeareco.jpg
     {% endcapture %}
     {% include elements/carousel.html %}
@@ -25,7 +27,7 @@ More to come - underrated museums, Christmas markets and itineraries!
 Vienna is famous for it's cafe culture - you can order a cup of coffee and stick around for hours, working or chatting with friends. This is one of my favourite things about the city. My current top choice for amazing coffee and great vibe is *Kleines Wiener Cafe* in the 8th district. If you want to see my big list of cafes in Vienna, here's a [Google maps link](https://maps.app.goo.gl/9bDhGpuSVZVXzCwHA). Enjoy the famous Sachertorte with a cup of coffee! 
 
 - Good for coffee + work - *Coffee Pirates, Das Cafe*
-- Amaaazing for take-away coffee - *GOTA Coffee Experts, Fenster Cafe*
+- Amaaazing for take-away coffee - *GOTA Coffee Experts, Fenster Cafe, The Good Coffee Society*
 - Good vibe to hangout, read or meet friends - *Kleines Wiener Cafe, phil, Cafe Kafka, Carl Ludwig Cafe*
 - Old-timey Viennese coffee house (but not crowded) - *Cafe Savoy, Cafe Schopenhauer*
 
@@ -33,16 +35,17 @@ Vienna is famous for it's cafe culture - you can order a cup of coffee and stick
 <iframe src="../files/Vienna_restaurants.html" height="420" width="400" style="float:left;margin:0px 25px;"></iframe>
 My third favourite thing about living in Vienna (after the public transport and cafes), is the variety of options in restaurants and the cuisines. I have tried a lot of places and my favourite so far *Gaon Korean Restaurant* near Westbahnhof and amazing tacos at *La Taqueria Chiquitata* on Margaretenstrasse. But based on what cuisine you're in the mood for (most restaurants need reservation for weekend dinners though), here's a list of restaurants and more comprehensive [maps list](https://maps.app.goo.gl/sdoDgR5ZDSESzWAF6) - 
 
-- Korean: *Gaon Korean Restaurant, Seoul Restaurant*
+- Korean: *Gaon Korean Restaurant, Bibim*
 - Mexican: *La Taqueria Chiquitata* (tacos only)
-- Chinese: *Tofu and Chili, Lili's Kitchen*
-- Ethiopian: *Cafe Lalibela*
+- Chinese: *Tofu and Chili, Juli Chinese Kitchen, Kiang Dine and Wine* (Chinese tapas)
+- Ethiopian: *Aethiopian Restaurant, Cafe Lalibela*
 - Middle-eastern: *Mani Yppenplatz, Restaurant Apadana*
 - Thai: *Papaya, Kamala Thai Imbiss*
 - Ramen: *Shoyu Ramen, Taeko Ramen*
 - Austrian: *Heindl's Schmarren* (famous for Austrian dessert), *Schweizerhaus* (outdoor beer garden)
 - Pizza: *I Ragazzi Pizzeria, Cocore pizzeria*
-- Mixed: *Tachles* (famous for peirogis) 
+- Pakistani/Indian/Nepali - *Ammi's Kitchen*, *Taste of India*, *The Everest Restaurant* (amazing jhol momos!)
+- Others: *Tachles* (famous for peirogis), *Philly Vienna*
 
 ## Shops
 <iframe src="../files/Vienna_shops.html" height="420" width="400" style="float:right;"></iframe>
@@ -50,18 +53,18 @@ If you're visiting Vienna for a few days, you can walk around on Mariahilferstra
 
 - English bookstores - *Hafi Books, Shakespeare and Co*
 - Thrift stores for clothes - *Bender Vintage, Burggasee 24*
-- Vintage prints and posters - *Iranaeus Kraus*
+- Art and stationery - *Iranaeus Kraus, Kunst und Art Wien* (eclectic art store supporting independent artists), *Paper Republic*
 - Thrift stores for furniture and kitchen items - *Carla Mittersteig*, *Die Glasfabrik* (insanely fancy, but some good finds)
-- Food and farmers market - *Naschmarkt* (large outdoor market with a wide range of products), *Hannovermarkt* (amazing fresh produce), *Prosi Exotic Suermarket* (Indian, Asian, African and Latin American grocery products)
+- Food and farmers market - *Naschmarkt* (large outdoor market with a wide range of products), *Hannovermarkt* (amazing fresh produce), *Prosi Exotic Supermarket* (Indian, Asian, African and Latin American grocery products)
 
 ## Outdoors
 <iframe src="../files/Vienna_outdoor.html" height="420" width="400" style="float:left;margin:0px 25px;"></iframe>
 If you're lucky enought to visit Vienna in the few weeks when it's possible to enjoy the outdoors, then take advantage of all the greenery and proximity to water! Here are some things I've enjoyed (or want to enjoy :P) - 
 
 - Swimming: *Krapfenwaldbad* (paid swimming pool in the hills with an amazing view and restaurant), *Donauinsel Grillplatz 9* (shaded spot on Donauinsel that has a nice access to the river)
-- Cycling: Great cycling paths on the Donauinsel and Donaukanal, but you can cycle along the Donaukanal to *Freidhof der Namenlosen* (Cemetry of the Nameless). *Prater Hauptallee* is a nice wide road among the woods where you can cycle alongside other people.
+- Cycling: Great cycling paths on the Donauinsel and Donaukanal, but you can cycle along the Donaukanal to *Freidhof der Namenlosen* (Cemetary of the Nameless). *Prater Hauptallee* is a nice wide road among the woods where you can cycle alongside other people.
 - Picnic and parks: *Wahringer park*, *Turkenschanz park* (a little out of the way, but beautiful walking paths) and it's also nice to sit by the Donaukanal near Schwedenplatz
-- Uphill walking: Walk up to *Buschenschank Windbauer* on a sunny day in summer to enjoy the view and early wine, or *Kahlenberg* (slightly steeper with a path in the woods) for a higher view of Vienna
+- Uphill walking: Walk up to *Buschenschank Windbauer* on a sunny day in summer to enjoy the view and early wine, or *Kahlenberg* (slightly steeper with a path in the woods) for a higher view of Vienna. There are several, well-maintained hiking trails around the city, called [*Wiener Stadtwanderweg*](https://www.wien.gv.at/freizeit/stadtwanderwege) - try to do them all in a year!
 
 If you have any good recommendations for me, don't hesitate to reach out!
 

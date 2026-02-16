@@ -8,7 +8,7 @@ description: A list of the blogs I follow along with my favourite posts.
 
 Most of the articles I read are recommended to me through mailing lists from the blogs that I follow. There are a bunch of blogs about academia that might be of interest to other aspiring academics. I also like reading about books, writing, and other curious things. Here is a list of all the blogs that I follow, with a link to their most interesting posts.
 
-Last updated: 01-06-2025
+Last updated: 19-12-2025
 
 <!-- ### <ins>Academia blogs</ins> -->
 <br/><br/>
@@ -18,7 +18,7 @@ Last updated: 01-06-2025
 #### 1. _Dynamic Ecology_ by Jeremy Fox, Meghan Duffy and Brian McGill
 Their [Friday links](https://dynamicecology.wordpress.com/2024/07/26/friday-links-the-piranha-principle-and-more/) are very topical and interesting. Here is a fun post on what it means to ask [if cats are evolutionarily successful](https://dynamicecology.wordpress.com/2024/02/06/are-cats-evolutionarily-perfect-what-does-that-question-even-mean/) (cat lovers watch out!). Jeremy Fox also has posts analysing the ecology faculty job market in North America.
 
-#### 2. _Scientist Sees Squirrell_ by Stephen B. Heard
+#### 2. _Scientist Sees Squirrel_ by Stephen B. Heard
 Stephen Heard is a professor at University of New Brunswick and writes regularly about interesting nomenclature and scientific writing. His post on [how to get over writer's block](https://scientistseessquirrel.wordpress.com/2022/05/03/getting-past-writers-block/) was very useful. His writing advice is always on point. 
 
 #### 3. _Science for Everyone_ by Terry McGlynn
@@ -53,16 +53,18 @@ This blog gives you a behind-the-scenes view on seminal papers in ecology and ev
 #### 2. _Seeds of Science_ 
 _Seeds of Science_ is a foundation and a blog that aims to nurture blossoming ideas in science and help transform them into scientific innovation. I enjoyed reading about [_Conservatism in Science_](https://www.theseedsofscience.pub/p/conservatism-in-science) by Matt Clancy and the trade-off in supporting truly novel ideas and how existing knowledge might not be the best at estimating them. 
 
-#### 3. _Liminal_ by Liz Neeley and Ambika Kamath
+#### 3. _Liminal_ by Liz Neeley 
 They are a science communication collective who help make sense of science. This reflective post in their newsletter by Neeley on how to [navigate through emotions in a rational argument](https://www.liminalcreations.com/newsletter/when-an-immovable-fact-meets-an-unstoppable-feeling) is very stimulating.
 
+<!--
 #### 4. _Scattterings_ by G. V. Pavan Kumar
 This is a blog with interviews of Indian scientists from various disciplines, and several posts by Pavan on the history and process of scientific ideas and development. This blog tries to humanise science and make it accessible to a wider audience.
 
 #### 5. _Rapid Uplift_ by Suvrat Kher
 In this newsletter, Kher explores new research in geology and shares his experience of visiting different landscapes and geologic terrains through pictures and videos. Here is an interesting one on [deep sea mining](https://rapiduplift.substack.com/p/rapid-uplift-deep-sea-mining-indian). To be perfectly candid (imitating Rosa Diaz), I sometimes skim through the text when the post gets technical.
 
-<!-- ### <ins>Other blogs</ins> -->
+### <ins>Other blogs</ins> 
+-->
 
 <br/><br/>
 
@@ -92,7 +94,11 @@ Previously titled _Brain Pickings_, this blog stems out of Popova's quest for me
 #### 8. _The Third Eye_
 _The Third Eye_ is an organisation working at the intersection of gender, caste, labour and education, and they publish a lot of material from marginalised voices and creates a learning platform educators, grassroot workers and policy makers. I really enjoyed reading this article called [_Will You Hide the Body with Me?_](https://thethirdeyeportal.in/praxis/will-you-hide-the-body-with-me/) by Vijeta Kumar, discussing female friendships and criminals!
 
+#### 9. _Works in Progress_ 
+It is a magazine of new and underrated ideas - each article explores in depth an idea or a phenomenon. Read about [_why we stopped building subways cheaply_](https://www.worksinprogress.news/p/why-we-stopped-building-subways-cheaply) and [_violence in prehistoric times](https://worksinprogress.co/issue/the-prehistoric-psychopath/). 
+
+<!--
 #### 9. _Nevermind_ by Andrew Potter
 In this substack, Potter writes about the 'forgotten history of Gen X'. Here's an interesting post for you - [do you remember your pre-internet brain?](https://nevermindgenx.substack.com/p/do-you-remember-your-pre-internet)
-
+-->
 ------

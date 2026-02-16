@@ -9,13 +9,16 @@ weight: 4
 
 {% capture list_items %}
 IISER Pune Biology Course Notes
+Offering Feedback and Guidance
 PhD Application
 Research Project Organisation
-Offering Feedback and Guidance
-Miscellaneous
+Visualisation
+Teaching
+List of Lists
 Cheat Sheets
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
+
 
 ## **IISER Pune Biology Course Notes**
 
@@ -60,6 +63,19 @@ The PDF files are linked to the course names in the table below. If you have any
 | [Data Analysis](/notes/TD2223_DataAnalysis.pdf)                                             | Spring 2021 | Shekatkar (SPPU) |
 
 -----
+
+## **Offering Feedback and Guidance**
+
+<img src="/images/resources/phd_email.jpg" alt="image" style="width:500px;height:auto;">
+
+I would spend days drafting and editing emails to professors to inquire about research opportunities. I would often run it by my friends or seniors, and their feedback on my emails, CV, SOPs and presentations significantly improved my work. Their input helped me overcome trying to get the text 'perfect' and boosted my confidence in my writing abilities. Vishu Guttal's [advice on how to write emails](https://teelabiisc.wordpress.com/2013/03/30/how-to-write-an-emailapplication-for-a-short-term-or-summer-research-internshipproject/) to professors is also absolutely invaluable!
+
+If you would like an extra pair of eyes on your writing or work, please feel free to reach out to me. I'd be happy to talk about my experience and give you my feedback (perhaps with a slight delay). But keep in mind that my qualifiations are just this: a PhD student, who went through PhD application process, and has some experience presenting at symposiums and conferences.
+
+Additionally, if you're travelling to Vienna (and Europe) for the first time, particularly if you're a person from a marginalised background, I would be glad to help you navigate the city in the first few days - I can offer tips and help you settle in. Just send me an email a few days in advance. 
+
+-----
+
 ## **PhD Application**
 
 <img src="/images/resources/phd_kindergarten.jpg" alt="image" style="width:400px;height:auto;float:left;margin:5px 30px;">
@@ -97,30 +113,11 @@ Here are some ideas on how to organize a research project such that it's searcha
 I have created a [starter folder](/files/ProjectName.zip) for a new project if you want to see how I organise my data and code (it was heavily influenced by Prof. Chaitanya Gokhale's starter folder). It's an example of all the points I've described above.
 
 -----
-## **Offering Feedback and Guidance**
-
-<img src="/images/resources/phd_email.jpg" alt="image" style="width:500px;height:auto;">
-
-Three years ago, I would spend days drafting and editing emails to professors to inquire about research opportunities. I would often run it by my friends or seniors, and their feedback on my emails, CV, SOPs and presentations significantly improved my work. Their input helped me overcome trying to get the text 'perfect' and boosted my confidence in my writing abilities. Vishu Guttal's [advice on how to write emails](https://teelabiisc.wordpress.com/2013/03/30/how-to-write-an-emailapplication-for-a-short-term-or-summer-research-internshipproject/) to professors is also absolutely invaluable!
-
-If you would like an extra pair of eyes on your writing or work, please feel free to reach out to me. I'd be happy to talk about my experience and give you my feedback (perhaps with a slight delay). But keep in mind that my qualifiations are just this: a first-year PhD student, who went through PhD application process, and has some experience presenting at symposiums and conferences.
-
-Additionally, if you're travelling to Vienna (and Europe) for the first time, particularly if you're a person from a marginalised background, I would be glad to help you navigate the city in the first few days - I can offer tips and help you settle in. Just send me an email a few days in advance. 
-
------
-## **Miscellaneous**
-
-#### Metadata of compiled resources 
-* [Resources and Advice for Students and Postdocs](https://keoghlab.com/resources-and-advice-for-students) by Dr. Scott Keogh (Professor at Australian National University). It contains a list of useful resources and pages for PhD students on how to deal with a grad school life in general, writing papers, presenting your work, advice on getting an academic job and so on.
-* [Resources page](https://teelabiisc.wordpress.com/resources-2/) by Dr. Vishu Guttal (Professor at the Indian Institute of Science). This page contains a great list of resources for professional and technical skills for academics, along with some funding/job opportunities specific to India.
-* [Resource page](https://thepandalorian.github.io/resources/) by Shikhara Bhat (PhD student at Johannes Gutenberg University). It's a great compilation of interesting articles on theoretical biology, science book recommendations for aspiring evolutionary biologists, and resources for coding, data visualisation and presentation.
-* [Writing resources](https://scientistseessquirrel.wordpress.com/writing-resources/) by Prof. Stephen B. Heard (Professor at University of New Brunswick). In addition to this collection of useful books, blogs and websites, Heard's book _A Scientist's Guide to Writing_ is also an excellent writing resource.
-* [Tools for Science](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science) by Dr. Arjun Raj (Professor at University of Pennsylvania). Arjun Raj and his team have collected and curated a bunch of useful tools for academia - how to give a good talk, navigating your PhD, creating good figures and a lot more!
-* [Resources](https://indiabioscience.org/resources) by IndiaBioScience. This page compiles resources for early career biology academics in India - from education and mental health to outreach grants and funding opportunities.
-
-#### Useful tools for scientific illustration and visualisation
+## **Visualisation**
 
 <img src="/images/resources/tools.jpg" alt="image" style="width:400px;height:auto;">
+
+#### Useful tools for scientific illustration
 
 * [Inkscape](https://inkscape.org/) - A powerful, free design tool to create illustrations, draw figures and make posters.
 * [Biorender](https://www.biorender.com/) - Allows you to choose from lots of icons to put together illustration of experiments and scientific processes. The premium version can be used to make unlimited illustrations, posters and request certain icons.
@@ -132,7 +129,50 @@ Additionally, if you're travelling to Vienna (and Europe) for the first time, pa
 * [The Python Graph Gallery](https://python-graph-gallery.com/) - A collection of various types of graphs plotted using Python libraries. It also has a greate Python [color palette finder](https://python-graph-gallery.com/color-palette-finder/)!
 * [Pylustrator](https://pylustrator.readthedocs.io/en/latest/#) - It is a python-based software to prepare your figures for publication in a reproducible way. It offers an interactive interface to find the best way to present your data in a figure for publication.
 * [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends) - DOs and DONTs to making good plots.
-* [Fireflies](https://ncase.me/fireflies/) by Nicky Case - An incredible interactive website to visualise the model describing firefly synchronisation
+
+#### Useful books on visualisation 
+
+* [_Fundamentals of Data Visualisation_](https://clauswilke.com/dataviz/) by Claus Wilke
+* _Visual Display of Quantitative Information_ by Edward Tufte (but watch out for the [absurdity of data-to-ink ratio](https://www.frank.computer/blog/2025/04/data-to-ink.html))
+* _Building Science Graphics_ by Jen Christiansen
+* _Visualising Complexity_ by Darjan Hil and Nicole Lachenmeier
+
+If you're interested in designing (or even exploring) creative and interactive websites, see some examples [here](/_posts/2026-02-16-visualisation.md)
+
+-----
+
+## **Teaching**
+
+I was not a patient teacher (I think my sister switched to studying commerce because of my tutoring!), but TA'ing a course in graduate school made me realise that I enjoy some aspects of teaching - especially, designing lectures in such a way that it makes learning easy. I have a long way to go before I can claim to be a good instructor, but here are some resources that I found useful.
+
+Books - 
+* [The Chicago Guide to College Science Teaching](https://press.uchicago.edu/ucp/books/book/chicago/C/bo27808232.html) by Terry McGlynn 
+* [Entering Mentoring](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/entering_mentoring.pdf): A Seminar to Train a New Generation of Scientists by Jo Handelsman, Christine Pfund, Sarah Miller Lauffer and Christine Maidl Pribbenow
+* [Teaching and Mentoring Writers in the Sciences](https://press.uchicago.edu/ucp/books/book/chicago/T/bo254814702.html) by Bethann Garramon Merkle and Stephen B. Heard
+  
+Blog posts - 
+* [Efficient teaching: Getting metacognitive](https://scienceforeveryone.science/efficient-teaching-getting-metacognitive/) by Terry McGlynn (a synopsis of some points from his book mentioned above)
+* [The most important, and the most pointless, course I’ve taught](https://eighteenthelephant.com/2025/04/11/the-most-important-and-the-most-pointless-course-ive-taught/) by Raghuveer Parthsarathy
+* [The Quality Control Interview for Big Classes](http://bactra.org/weblog/2024/03/23/) by Cosma Rohilla Shalizi
+* [AWOL from Academics](https://www.harvardmagazine.com/2024/03/university-people-the-undergraduate-balance) by Aden Barton
+
+On the use of generative AI while learning - 
+* [Odysseus untying himself from the mast](https://forklightning.substack.com/p/using-generative-ai-to-learn-is-like) by David Deming
+* [GenAI in the classroom](https://scienceforeveryone.science/how-i-am-thinking-about-genai-in-the-classroom/) by Terry McGlynn
+* [What to do when students turn in assignments generated by AI?](https://scienceforeveryone.science/what-to-do-when-student-turn-in-assignments-generated-by-ai/) by Terry McGlynn
+
+------
+
+## **List of Lists**
+
+#### Metadata of compiled resources 
+* [Resources and Advice for Students and Postdocs](https://keoghlab.com/resources-and-advice-for-students) by Dr. Scott Keogh (Professor at Australian National University). It contains a list of useful resources and pages for PhD students on how to deal with a grad school life in general, writing papers, presenting your work, advice on getting an academic job and so on.
+* [Resources page](https://teelabiisc.wordpress.com/resources-2/) by Dr. Vishu Guttal (Professor at the Indian Institute of Science). This page contains a great list of resources for professional and technical skills for academics, along with some funding/job opportunities specific to India.
+* [Advice](https://github.com/shaily99/advice) for undergraduate and gradute students compiled by Shaily Bhat (PhD student at Carnegie Mellon University), who has her own [list of lists](https://github.com/shaily99/advice)!
+* [Resource page](https://thepandalorian.github.io/resources/) by Shikhara Bhat (PhD student at Johannes Gutenberg University). It's a great compilation of interesting articles on theoretical biology, science book recommendations for aspiring evolutionary biologists, and resources for coding, data visualisation and presentation.
+* [Writing resources](https://scientistseessquirrel.wordpress.com/writing-resources/) by Prof. Stephen B. Heard (Professor at University of New Brunswick). In addition to this collection of useful books, blogs and websites, Heard's book _A Scientist's Guide to Writing_ is also an excellent writing resource.
+* [Tools for Science](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science) by Dr. Arjun Raj (Professor at University of Pennsylvania). Arjun Raj and his team have collected and curated a bunch of useful tools for academia - how to give a good talk, navigating your PhD, creating good figures and a lot more!
+* [Resources](https://indiabioscience.org/resources) by IndiaBioScience. This page compiles resources for early career biology academics in India - from education and mental health to outreach grants and funding opportunities.
 
 #### Useful tools I've used in my research 
 
@@ -146,6 +186,12 @@ Additionally, if you're travelling to Vienna (and Europe) for the first time, pa
 * [StereoCameraCalibrator](https://in.mathworks.com/help/vision/ref/stereocameracalibrator-app.html?searchHighlight=stereocameracalibrator&s_tid=srchtitle_support_results_1_stereocameracalibrator#responsive_offcanvas) - A MATLAB based tool to calibrate two cameras such that you can get 3D points from two sets of 2D points.
 * [LabelStudio](https://labelstud.io/) - Open source data labelling platform to create training data or validate AI models.
 * [Fort-Studio](https://github.com/formicidae-tracker/myrmidon) - An API and graphical interface to facilitate access and analyzis of manage and visualize large Ant tracking datasets.
+
+#### Miscellaneous 
+
+* [Lessons in Statistical Thinking](https://dtkaplan.github.io/Lessons-in-statistical-thinking/) by Daniel Kaplan
+* [Against the uncritical adoption of 'AI' technologies in academia](https://zenodo.org/records/17065099) by Guest et al., 2025
+* [Using AI in Academia](https://arjun-raj-lab.gitbook.io/arjun-rajs-tools-for-science/how-to-do-science/using-ai-in-academia) by Arjun Raj
 
 -----
 
@@ -172,7 +218,7 @@ Danger - Red
 Info - Cyan
 Border+Primary - blue outline, grey fill
 
-<a class="nav-item nav-link " href="/files/CV - Vasudha Kulkarni.pdf">CV</a>
+<a class="nav-item nav-link " href="/files/CV/CV%20-%20Vasudha%20Kulkarni.pdf">CV</a>
 
 * [Python - Pandas](/files/cs_pandas.pdf)
 * [Python - Matplotlib](/files/cs_matplotlib.pdf)

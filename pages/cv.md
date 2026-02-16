@@ -5,7 +5,7 @@ permalink: /cv/
 weight: 5
 ---
 
-### [Download CV](/files/CV - Vasudha Kulkarni.pdf)
+### [Download CV](/files/CV/CV%20-%20Vasudha%20Kulkarni.pdf)
 
 
 ---------
