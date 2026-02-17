@@ -143,6 +143,8 @@ If you're interested in designing (or even exploring) creative and interactive w
 
 ## **Teaching**
 
+<img src="/images/resources/phd_teaching.jpg" alt="image" style="width:500px;height:auto;">
+
 I was not a patient teacher (I think my sister switched to studying commerce because of my tutoring!), but TA'ing a course in graduate school made me realise that I enjoy some aspects of teaching - especially, designing lectures in such a way that it makes learning easy. I have a long way to go before I can claim to be a good instructor, but here are some resources that I found useful.
 
 Books - 
