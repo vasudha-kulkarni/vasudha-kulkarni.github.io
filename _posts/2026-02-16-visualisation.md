@@ -12,8 +12,8 @@ I am always in awe of creative people, especially those who are visually creativ
 
 First, here are some creators who have compiled several great interactive renditions, but I've only highlighted one of their creations in the cards below - 
 
-* [neal.fun](https://neal.fun/) by Neal Agarwal has several fun, interactive games. My favourites are [_Absurd Trolley Problems_](https://neal.fun/absurd-trolley-problems/) and the [_Password Game_](https://neal.fun/password-game/).
-* [Visual Cinnamon](https://www.visualcinnamon.com/) by Nadieh Bremer has several delightful illustrations. I really appreciate the color palette and design in [Intangible Cultural Heritage](https://ich.unesco.org/en/dive) for UNESCO
+* [_neal.fun_](https://neal.fun/) by Neal Agarwal has several fun, interactive games. My favourites are [_Absurd Trolley Problems_](https://neal.fun/absurd-trolley-problems/) and the [_Password Game_](https://neal.fun/password-game/).
+* [_Visual Cinnamon_](https://www.visualcinnamon.com/) by Nadieh Bremer has several delightful illustrations. I really appreciate the color palette and design in [Intangible Cultural Heritage](https://ich.unesco.org/en/dive) for UNESCO
 * [_Complexity Explorables_](https://www.complexity-explorables.org/) by Dirk Brockmann is a collection of interactive explorable explanations of complex systems in biology, physics and methamtics, such as the Vicsek model, opinion dynamics and pulse-coupled oscillators. They're a great resource for teaching when giving an intuition for these models.
 
 <style>
@@ -162,6 +162,26 @@ First, here are some creators who have compiled several great interactive rendit
       title: "Searching for Birds",
       description: "By Nadieh Bremer. An exploration of prominent birds in North America and how people search for them",
       url: "https://searchingforbirds.visualcinnamon.com/"
+    },
+    {
+      title: "Book Covers",
+      description: "By Melanie Richards. Creative illustration of covers of books that have stayed with Richards.",
+      url: "https://highlights.melanie-richards.com/ "
+    },
+    {
+      title: "Evolution of Fitness Landscapes",
+      description: "By Bhaskar Kumawat. A visualisation of fitness landscape based on genotypes.",
+      url: "https://maxjerdee.github.io/CSSS-arts/projects/fitness_landscapes.html"
+    },
+    {
+      title: "Circular Distributions",
+      description: "By Pedro M. Cruz. Cartogram of distributions of trips within cities in the U.S.",
+      url: "https://pmcruz.com/works/circular-distributions.html"
+    },
+    {
+      title: "Academic Networks",
+      description: "By Ketika Garg. A visualisation of academic networks based on Bluesky starter packs.",
+      url: "https://ketikagarg.github.io/blueSkyAcademicNetwork/network2.html"
     }
   ];
 

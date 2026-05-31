@@ -6,19 +6,32 @@ color: secondary
 description: A collection of articles I have really enjoyed, those that I want to keep going back to.
 ---
 
-My friend Divyansh, introduced me to the idea of [digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) -- a digital garden is your corner of the internet, a place for you to explore and write about what interests you, just because it interests you ([Here](https://amandapinsker.com/reading), [here](https://notes.andymatuschak.org/About_these_notes) and [here](https://highlights.melanie-richards.com/) are some really creative digital gardens!). I fell in love with the idea immediately. While other bloggers have done wonderful things with this idea, I just wanted to create a digital garden of all the longform articles I've enjoyed and loved. I truly enjoy reading good writing, especially when the author is narrating a story. And when I read a great article on the web, I tend to bookmark it, send it to myself on email or share it with my friends. But ultimately, they end up being scattered across platforms. So, this blog is a collection of all the longform articles I've loved, those that I want to keep going back to. Let me know which one you liked best!
+My friend Divyansh, introduced me to the idea of [digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) -- a digital garden is your corner of the internet, a place for you to explore and write about what interests you, just because it interests you ([here](https://amandapinsker.com/reading), [here](https://notes.andymatuschak.org/About_these_notes) and [here](https://highlights.melanie-richards.com/) are some really creative digital gardens!). I fell in love with the idea immediately. While other bloggers have done wonderful things with this idea, I just wanted to create a digital garden of all the longform articles I've enjoyed and loved. I truly enjoy reading good writing, especially when the author is narrating a story. And when I read a great article on the web, I tend to bookmark it, send it to myself on email or share it with my friends. But ultimately, they end up being scattered across platforms. So, this blog is a collection of all the longform articles I've loved, those that I want to keep going back to. Let me know which one you liked best!
 
-#### Top 3 Recommendations
+#### Top 5 Recommendations
 
-1. [_Looking for Alice_](https://www.henrikkarlsson.xyz/p/looking-for-alice) by Henrik Karlsson on his blog, _Escaping Flatand_. An incredibly personal article on how he found his partner, Joanna.
-2. [_Listen to Her_](https://shankarraman.in/2020/01/09/listen-to-her/) by T.R. Shankar Raman on his blog, _View from the Elephant Hills_. Raman, an Indian ecologist and conservationist, who has worked on restoring forests in the Western Ghats, read books only by women for an entire year in 2019. 
-3. [_The Origin of Research University_](https://asteriskmag.substack.com/p/the-origin-of-the-research-university) by Clara Collier - a truly fascinating, informative history of the current model of research universities.
+1. [_What is a Feminist Choice?_](https://herenowstudies.com/archive?slug=45&freePost=true) by Rega Jha on her blog, _here/now studies_. Wrestling with choice feminism and how to live when you fall short of your own principles. 
+2. [_Looking for Alice_](https://www.henrikkarlsson.xyz/p/looking-for-alice) by Henrik Karlsson on his blog, _Escaping Flatand_. An incredibly personal article on how he found his partner, Joanna.
+3. [_Listen to Her_](https://shankarraman.in/2020/01/09/listen-to-her/) by T.R. Shankar Raman on his blog, _View from the Elephant Hills_. Raman, an Indian ecologist and conservationist, who has worked on restoring forests in the Western Ghats, read books only by women for an entire year in 2019. 
+4. [_The Origin of Research University_](https://asteriskmag.substack.com/p/the-origin-of-the-research-university) by Clara Collier - a truly fascinating, informative history of the current model of research universities.
+5. [_Dating like a Savarna_](https://www.theswaddle.com/dating-like-a-savarna) by Ravikant Kisana. An incsisive article on how caste moulds the dating landscape in India.
 
 -------
 
 #### A list of articles, in order of when I read them - 
 
-Last updated: 16-02-2026
+Last updated: 31-05-2026
+
+##### 2026
+
+* [_Who Really Benefits from Welfare Transfers?_](https://www.theindiaforum.in/economy/who-really-benefits-welfare-transfers) by Dwaipayan Bhattacharya
+  > _"Where the state compensates for capital’s failure to pay living wages, the real labharthis (beneficieries) of this political economy are not the recipients of freebies at all. They are the alliance of concentrated wealth and political power — a system of crony capitalism in which corporate accumulators and crafty demagogues converge to convert modest welfare into spectacles of benevolence, while quietly guarding a regime of hyper-accumulation amid deepening inequality."_
+
+* [_We are all very anxious_](https://www.weareplanc.org/2014/04/we-are-all-very-anxious/) by We Are PlanC
+* [_Indian Liberals Must Die_](https://www.nplusonemag.com/online-only/online-only/indian-liberals-must-die/) by Raghu Karnad
+* [_There is always more we can do_](https://progressive.international/wire/2026-03-18-there-is-always-more-we-can-do-/en/) by Sally Rooney
+* [_What is a Feminist Choice?_](https://herenowstudies.com/archive?slug=45&freePost=true) by Rega Jha
+  > _“What is a feminist choice?” It is a choice that expands what we collectively recognise as dignified living._
 
 * [_Why don't Indians read for pleasure_](https://www.theculturecafe.in/p/why-dont-indians-read-for-pleasure) by Anurag Minus Verma 
   > _"Indians do read for pleasure, but they also read anxiously, strategically, and sometimes secretly. They read in languages that rarely enter metropolitan surveys. They read on cheap paper and cracked phone screens, often because income does not allow even the small pleasure of changing a new tempered glass."_
@@ -27,6 +40,8 @@ Last updated: 16-02-2026
 * [_My mind is open but my heart is closed_](https://vikramshah.substack.com/p/my-mind-is-open-but-my-heart-is-closed) by Vikram Shah
 * [_The River Kills when Angry_](https://heat-death.ghost.io/the-river-kills-when-angry/) by Saul Elbien
   > _"There is a common belief in the river valleys of Peru that when the river is high and rain-swollen, it is angry. And it will not rest until it takes someone."_
+
+##### 2025
 
 * [_The Origin of Research University_](https://asteriskmag.substack.com/p/the-origin-of-the-research-university) by Clara Collier
   > _"Through a carefully constructed program of seminars and socratic dialogues, students would be encouraged to cultivate the faculty of scholarly reason which would guide them through the world as fully-realized individuals. The capacity to learn would serve students far beyond their university days. It was the same capacity that would allow them to discover new things about the world."_
@@ -43,6 +58,9 @@ Last updated: 16-02-2026
   
 * [_Absurd Trolley Problems_](https://neal.fun/absurd-trolley-problems/) by Neal Agarwal (not an article - but really fun!)
 * [_Heirlooms_](https://medium.com/@behindthedesk/heirlooms-017753d86357) by Prakriti Singh
+
+##### 2024 and before
+
 * [_The art of Sleeping in Seminars_](https://physics.illinois.edu/calendar/seminars/the-art-of-sleeping-in-seminars) by V. Gates, Empty Kangaroo, M. Roachcock, and W.C. Gall.
   > _"5. If possible, choose a chair with padding. Plastic and metal chairs also fall noisely."_
   
@@ -62,6 +80,7 @@ Last updated: 16-02-2026
 * [_The Future of Friendships in the Age of Opinions_](https://bymanujoseph.com/2024/02/02/the-future-of-friendships-in-the-age-of-opinions/) by Manu Joseph
 * [_Economic Ornithology_](https://birdhistory.substack.com/p/economic-ornithology) by Robert Francis
 * [_A National Evil_](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil) by Jonah Goodman
+* [_Looking for Alice_](https://www.henrikkarlsson.xyz/p/looking-for-alice) by Henrik Karlsson
 * [_Things I Wish I Could Tell Every Woman_](https://righttorestandexcel.substack.com/p/things-i-wish-i-could-tell-every?fbclid=PAAaaIx4MgoKBW7PrEGFbEkLb_4QWNp_2Q2Frzg7917r-JqnhWUTIdcdT9pXY) by Ankita Apurva
   > _"A man — any man, is a companion or a junction but never your identity or your destination. And no man who loves you will waste your time. Please don't while your years away. Very few girls get a 'second chance' of focusing on their existence, let alone a third or a fourth. Before you know it, your relatives will start bringing arranged marriage proposals of men seven years older to you—do not. Okay. Work hard. Very hard. Rest well. Very well. Not only because you want to escape abuse and be safe but also because you deserve to enjoy and be celebrated."_
 
@@ -88,10 +107,12 @@ Last updated: 16-02-2026
 * [_Studying the Antlion Taught Me How to be Human_](https://magazine.catapult.co/column/stories/ambika-kamath-studying-antlion-taught-me-how-to-be-human-behavioral-ecology-science-nature) by Ambika Kamath
   > _"I eventually came to understand that, as a behavioral ecologist, I was asking of the natural world the very questions I was too scared to ask of myself and those around me. I had so many questions about how to exist in this world, and it seemed impossible that a single organism could hold all the answers. Rather, I found that different creatures hold the keys to different doors, with each door leading away from a different difficult situation. After all, any living creature on this planet has an evolutionary history exactly as long as the evolutionary history of any other living creature, stretching billions of years between the moment when life began and right now."_
 
-* [_The PhD Supply Chain Problem_](https://thesiswhisperer.com/2022/02/02/the-phd-supply-chain-problem/) by Inger Mewburn
 <!--
+* [_The PhD Supply Chain Problem_](https://thesiswhisperer.com/2022/02/02/the-phd-supply-chain-problem/) by Inger Mewburn
 * [_Learning the tricks of turmeric trade in Tamil Nadu_](https://ruralindiaonline.org/en/articles/learning-the-tricks-of-the-turmeric-trade-in-tn/) by Aparna Karthikeyan
 -->
+
+* [_Listen to Her_](https://shankarraman.in/2020/01/09/listen-to-her/) by T.R. Shankar Raman
 * [_A short history of the India Coffee House_](https://www.firstpost.com/living/a-short-history-of-the-india-coffee-house-conversation-revolutionary-politics-and-a-different-way-to-do-business-9184321.html) by Karthik Venkatesh
 * [_Stitching Hope_](https://www.hakaimagazine.com/features/stitching-hope/) by Kamala Thiagarajan
   > _"After the tragedy, people in her village were paralyzed with fear; many were reluctant to go out to fish. The doll-making workshop seemed like a godsend."_
