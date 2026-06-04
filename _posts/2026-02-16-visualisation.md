@@ -124,7 +124,6 @@ First, here are some creators who have compiled several great interactive rendit
 <div class="grid" id="siteGrid"></div>
 
 <script>
-  // ✏️ Edit this array with your own sites
   const sites = [
     {
       title: "Fireflies",
@@ -168,11 +167,11 @@ First, here are some creators who have compiled several great interactive rendit
       description: "By Melanie Richards. Creative illustration of covers of books that have stayed with Richards.",
       url: "https://highlights.melanie-richards.com/ "
     },
-    {
-      title: "Evolution of Fitness Landscapes",
-      description: "By Bhaskar Kumawat. A visualisation of fitness landscape based on genotypes.",
-      url: "https://maxjerdee.github.io/CSSS-arts/projects/fitness_landscapes.html"
-    },
+//    {
+//      title: "Evolution of Fitness Landscapes",
+//      description: "By Bhaskar Kumawat. A visualisation of fitness landscape based on genotypes.",
+//      url: "https://maxjerdee.github.io/CSSS-arts/projects/fitness_landscapes.html"
+//    },
     {
       title: "Circular Distributions",
       description: "By Pedro M. Cruz. Cartogram of distributions of trips within cities in the U.S.",

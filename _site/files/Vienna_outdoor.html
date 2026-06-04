@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vienna Outdoor</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map { height: 400px; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([48.20644411743367, 16.400200867314187], 11); // NYC coordinates
+        
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+        
+        // Add markers for your specific places
+//        L.marker([48.23368236165984, 16.376448145623833]).addTo(map)
+//            .bindPopup('Home');
+
+        L.marker([48.265687989939245, 16.3320481749335]).addTo(map)
+            .bindPopup('Krapfenwaldbad');
+        
+        L.marker([48.21490437384731, 16.42982534617115]).addTo(map)
+            .bindPopup('Donauinsel Grillplatz 9');
+
+        L.marker([48.26510131673357, 16.357179612658246]).addTo(map)
+            .bindPopup('Buschenschank Windischbauer');
+
+        L.marker([48.27671059578943, 16.334451165506287]).addTo(map)
+            .bindPopup('Kahlenberg');
+
+        L.marker([48.16186093617939, 16.502458623856636]).addTo(map)
+            .bindPopup('Cemetery of the Nameless');
+
+        L.marker([48.22127257087961, 16.419138013140028]).addTo(map)
+            .bindPopup('Donauinsel');
+
+        L.marker([48.213011868402596, 16.376900238417488]).addTo(map)
+            .bindPopup('Donaukanal');
+
+        L.marker([48.23221067532442, 16.348447489119806]).addTo(map)
+            .bindPopup('Wahringer Park');
+
+        L.marker([48.2050995789032, 16.415625564419095]).addTo(map)
+            .bindPopup('Prater Hauptallee');
+
+        L.marker([48.236028422296954, 16.33393541252944]).addTo(map)
+            .bindPopup('Turkenschanz Park');
+    </script>
+</body>
+</html>

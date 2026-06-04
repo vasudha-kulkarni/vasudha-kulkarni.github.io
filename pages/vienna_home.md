@@ -5,13 +5,13 @@ permalink: /vienna-home/
 weight: 6
 ---
 
-# Arjun's Guide to Vasudha's apartment in Vienna
+# A Guide to Vasudha's apartment in Vienna
 
 Address: Nordwestbahnstrasse 91/6, 1200, Vienna ([Google maps](https://maps.app.goo.gl/WoooYEioZm2LC27R8))
 
 ## Keys
 - The big metal key is for the apartment building door, apartment door and the waste-room and cycle storage room 
-- The small metal key is for the post box (it would be great if you could bring up the post sometime)
+- The small metal key is for the post box 
 - The small key with black handle is for the bicycle lock 
 - When you're leaving, you can lock up and leave them in the post box, and I can pick it up later in the day
 
@@ -31,6 +31,7 @@ As soon as you enter the apartment, the door facing you on the right-hand side i
 - Also plug in other appliances: microwave, kettle, washing machine (the refrigerator and electric stove and oven should already be running).
 - The bed and sofa are covered with sheets - it would be great if you could wash them (the drying rack is behind the living room door).
 
+<!--
 ## Groceries in the kitchen
 - Shelf stable things: rice, toor dal, canned chickpeas and tomatoes, pasta, Barilla tomato sauce, muesli, shelf-stable milk, semolina, vermicelli and some other things. In addition to this - a lot of spices, and sauces in the fridge 
 - Frozen food: green chillies, some frozen parathas, curry leaves, and some vegetables 
@@ -39,6 +40,7 @@ As soon as you enter the apartment, the door facing you on the right-hand side i
 
 ## Cleaning supplies 
 Sorry there's no vaccum cleaner - I wanted to buy it before you came, but I didn't have the time. There's a broom and mop next to the washing machine and some other cleaning supplies are under the kitchen sink (if you want to wipe dust off of surfaces).
+-->
 
 ## Using the shelf-toilet 
 A unique feature of my apartment is the shelf-toilet which has its advantages and disadvantages (read more [here](https://medium.com/banterist/poland-dispatch-the-german-poo-shelf-toilet-56e142b42c57) and [here](https://amsenneff.wordpress.com/2010/09/18/heres-a-culture-lesson-for-you-the-pooh-shelf/)). But some brief pointers for using the shelf toilet (after months of experience) - 

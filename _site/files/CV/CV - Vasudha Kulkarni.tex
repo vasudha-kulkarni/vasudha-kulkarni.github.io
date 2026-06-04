@@ -1,0 +1,71 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+% Choose bibliography style for formatting list of publications
+\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
+\bibliography{papers}
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{MidnightBlue}
+
+% More predefined colors can be found in 
+% https://en.wikibooks.org/wiki/LaTeX/Colors
+% Example photograph taken from Wikimedia Commons
+% https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
+
+\usepackage{simplecv}
+\usepackage{fontawesome}
+
+
+%\begin{center}
+
+%\boldname{Kulkarni}{Vasudha}{N.}
+%\end{center}
+
+
+\begin{document}
+
+%\title{{Vasudha Kulkarni}}
+
+%\begin{center}
+% Heading
+\headinginline{Vasudha Kulkarni} {
+
+    \email{Vasudha.Kulkarni@ist.ac.at} 
+    %| \phone{+91 8277469081} 
+    %\github{vasudha-kulkarni}
+    
+    \href{https://vasudha-kulkarni.github.io/}{\faGlobe} 
+    \href{https://github.com/vasudha-kulkarni}{\faGithub}
+    \href{https://twitter.com/vkulkarni_2081}{\faTwitter}
+    
+}
+%\end{center}
+    
+% \headingphoto{Name Surname}{
+%     Website: \website{example.com} \\ 
+%     Email: \email{example@example.edu} \\
+%     LinkedIn: \linkedin{name-surname} \\
+%     GitHub: \github{example}
+% }{photo.jpg}
+
+% Page One
+
+\import{sections/}{education.tex}
+\import{sections/}{masters.tex}
+\import{sections/}{research.tex}
+\import{sections/}{poster.tex}
+\import{sections/}{teaching.tex}
+\import{sections/}{coursework.tex}
+\import{sections/}{skills.tex}
+\import{sections/}{awards.tex}
+
+%\pagebreak
+
+% Page Two
+
+%\import{sections/}{articles.tex}
+%\import{sections/}{extracurricular.tex}
+\import{sections/}{references.tex}
+
+\end{document}

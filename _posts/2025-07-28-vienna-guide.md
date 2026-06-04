@@ -37,7 +37,7 @@ My third favourite thing about living in Vienna (after the public transport and 
 
 - Korean: *Gaon Korean Restaurant, Bibim*
 - Mexican: *La Taqueria Chiquitata* (tacos only)
-- Chinese: *Tofu and Chili, Juli Chinese Kitchen, Kiang Dine and Wine* (Chinese tapas)
+- Chinese: *Tofu and Chili, Kiang Dine and Wine* (Chinese tapas)
 - Ethiopian: *Aethiopian Restaurant, Cafe Lalibela*
 - Middle-eastern: *Mani Yppenplatz, Restaurant Apadana*
 - Thai: *Papaya, Kamala Thai Imbiss*
@@ -53,7 +53,7 @@ If you're visiting Vienna for a few days, you can walk around on Mariahilferstra
 
 - English bookstores - *Hafi Books, Shakespeare and Co*
 - Thrift stores for clothes - *Bender Vintage, Burggasee 24*
-- Art and stationery - *Iranaeus Kraus, Kunst und Art Wien* (eclectic art store supporting independent artists), *Paper Republic*
+- Art and stationery - *Iranaeus Kraus, Milaneum* (vintage prints and photos), *Kunst und Art Wien* (eclectic art store supporting independent artists), *Paper Republic, Gerstacker* (notebooks and stationary)
 - Thrift stores for furniture and kitchen items - *Carla Mittersteig*, *Die Glasfabrik* (insanely fancy, but some good finds)
 - Food and farmers market - *Naschmarkt* (large outdoor market with a wide range of products), *Hannovermarkt* (amazing fresh produce), *Prosi Exotic Supermarket* (Indian, Asian, African and Latin American grocery products)
 

@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+  
+  
+  
+
+  
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Visualisation Inspiration">
+  <meta property="og:description" content="Websites with creative and interactive visualisations">
+  <meta property="og:image" content="images/VK_kochi.jpg">
+
+  <title>Visualisation Inspiration</title>
+  <meta name="description" content="Websites with creative and interactive visualisations">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Theme style -->
+  <script src="/assets/js/theme.js"></script>
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+
+  <!-- Bootstrap CSS CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+
+  <!-- Animate CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+</head>
+
+
+<body class="h-100 d-flex flex-column">
+
+  <main class="flex-shrink-0 container mt-5">
+    <nav class="navbar navbar-expand-lg navbar-themed">
+
+  <a class="navbar-brand" href="/"><h5><b>Vasudha Kulkarni</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-1x fa-bars text-themed"></i>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/about/">About</a>
+
+      <a class="nav-item nav-link " href="/projects/">Projects</a>
+
+      <a class="nav-item nav-link active" href="/blog/">Blog</a>
+
+      <a class="nav-item nav-link " href="/resources/">Resources</a>
+
+      <a class="nav-item nav-link " href="/cv/">CV</a>
+
+      
+
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+    </div>
+  </div>
+
+</nav>
+    <div class="col-lg-10 mx-auto mt-5 markdown-body">
+  <h1><b>Visualisation Inspiration</b></h1>
+
+<p class="post-metadata text-muted">
+  16 February 2026 -  
+  <b>4 mins read time</b>
+
+  <br>Tags: 
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#recommendations">
+      <span class="tag badge badge-pill text-primary border border-primary">recommendations</span>
+    </a>
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#websites">
+      <span class="tag badge badge-pill text-primary border border-primary">websites</span>
+    </a>
+    </p>
+
+<figure class="figure w-100">
+  <img src="/images/blog/blog_ant_illustration.png" class="figure-img img-fluid rounded" alt="An illustration of various behaviours in marker-tagged ants. Image credit: Vasudha Kulkarni" /><figcaption class="figure-caption text-center">An illustration of various behaviours in marker-tagged ants. Image credit: Vasudha Kulkarni</figcaption></figure>
+
+<p>I am always in awe of creative people, especially those who are visually creative, those who effortlessly put together a good color palette, and those who make it engaging for the viewer. My sense of aesthetic (when it shows up) is rather mundane (look at my attempt to visualise places on <a href="https://vasudha-kulkarni.github.io/blog/vienna-guide">a map in Vienna</a>), but I’m trying to work on it by curating websites that I find appealing and fun (several of these were shared by a friend, Bianca). I would curate paintings, murals, and other illustrations too, but their impact is reduced on screen, whereas websites are designed to be viewed on a screen!</p>
+
+<p>First, here are some creators who have compiled several great interactive renditions, but I’ve only highlighted one of their creations in the cards below -</p>
+
+<ul>
+  <li><a href="https://neal.fun/"><em>neal.fun</em></a> by Neal Agarwal has several fun, interactive games. My favourites are <a href="https://neal.fun/absurd-trolley-problems/"><em>Absurd Trolley Problems</em></a> and the <a href="https://neal.fun/password-game/"><em>Password Game</em></a>.</li>
+  <li><a href="https://www.visualcinnamon.com/"><em>Visual Cinnamon</em></a> by Nadieh Bremer has several delightful illustrations. I really appreciate the color palette and design in <a href="https://ich.unesco.org/en/dive">Intangible Cultural Heritage</a> for UNESCO</li>
+  <li><a href="https://www.complexity-explorables.org/"><em>Complexity Explorables</em></a> by Dirk Brockmann is a collection of interactive explorable explanations of complex systems in biology, physics and methamtics, such as the Vicsek model, opinion dynamics and pulse-coupled oscillators. They’re a great resource for teaching when giving an intuition for these models.</li>
+</ul>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 24px;
+    padding: 10px 0;
+  }
+  .card {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+    background: #fff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.18);
+  }
+
+  .placeholder {
+    display: none; /* hidden by default, shown via JS */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .placeholder-fallback {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(135deg, #e8e8e8, #f5f5f5);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+    color: #aaa;
+    font-size: 13px;
+  }
+  .placeholder-fallback .icon { font-size: 32px; }
+
+  .iframe-wrapper {
+    position: relative;
+    height: 220px;
+    overflow: hidden;
+  }
+  .iframe-wrapper iframe {
+    width: 200%;
+    height: 200%;
+    transform: scale(0.5);
+    transform-origin: top left;
+    border: none;
+    pointer-events: none;
+  }
+  .iframe-overlay {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    cursor: pointer;
+    background: transparent;
+    transition: background 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .iframe-wrapper:hover .iframe-overlay {
+    background: rgba(0, 0, 0, 0.45);
+  }
+  .iframe-wrapper .iframe-overlay::after {
+    content: '↗ Open Site';
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .iframe-wrapper:hover .iframe-overlay::after {
+    opacity: 1;
+  }
+  .card-footer {
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #eee;
+  }
+
+  .card-desc  { font-size: 11px; color: #888; margin-top: 2px; }
+  .open-btn {
+    text-decoration: none;
+    background: #222;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    transition: background 0.2s;
+  }
+  .open-btn:hover { background: #555; }
+</style>
+
+<div class="grid" id="siteGrid"></div>
+
+<script>
+  const sites = [
+    {
+      title: "Fireflies",
+      description: "By Nicky Case. An incredible interactive website to visualise the model describing how fireflies synchronise their flashing",
+      url: "https://ncase.me/fireflies/"
+    },
+    {
+      title: "Absurd Trolley Problems",
+      description: "By Neal Agarwal. An absurd, interactive game to show how many people you'd kill by pulling the lever",
+      url: "https://neal.fun/absurd-trolley-problems/",
+      placeholder: "/images/blog/vis_trolley.png"
+    },
+    {
+      title: "Of the Oak",
+      description: "By Marshmallow Laser Feast. A digital, interactive journey created in collaboration by artists and scinetists celebrating oak trees as living monuments and networks connecting thousands of species that depend on them",
+      url: "https://oftheoak.co.uk/oak-species"
+    },
+    {
+      title: "The Vicsek Model",
+      description: "By Dirk Brockmann. An interactive website to visualise how hordes of moving agents coordinate their collective motion",
+      url: "https://www.complexity-explorables.org/explorables/horde-of-the-flies/"
+    },
+    {
+      title: "The Collapse of Insects",
+      description: "By Catherine Tai. A great visualisation of the immense biodiversity of insects and the silent insect apocalypse",
+      url: "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/",
+      placeholder: "/images/blog/vis_insects.png"
+    },
+    {
+      title: "Planets of Disparity",
+      description: "By Liuhuaying Yang and Rainer Stütz. An interactive game that visualises how spontaneous preferences can unintentionally create inequalities",
+      url: "https://vis.csh.ac.at/planets-of-disparity-two/"
+    },
+    {
+      title: "Searching for Birds",
+      description: "By Nadieh Bremer. An exploration of prominent birds in North America and how people search for them",
+      url: "https://searchingforbirds.visualcinnamon.com/"
+    },
+    {
+      title: "Book Covers",
+      description: "By Melanie Richards. Creative illustration of covers of books that have stayed with Richards.",
+      url: "https://highlights.melanie-richards.com/ "
+    },
+//    {
+//      title: "Evolution of Fitness Landscapes",
+//      description: "By Bhaskar Kumawat. A visualisation of fitness landscape based on genotypes.",
+//      url: "https://maxjerdee.github.io/CSSS-arts/projects/fitness_landscapes.html"
+//    },
+    {
+      title: "Circular Distributions",
+      description: "By Pedro M. Cruz. Cartogram of distributions of trips within cities in the U.S.",
+      url: "https://pmcruz.com/works/circular-distributions.html"
+    },
+    {
+      title: "Academic Networks",
+      description: "By Ketika Garg. A visualisation of academic networks based on Bluesky starter packs.",
+      url: "https://ketikagarg.github.io/blueSkyAcademicNetwork/network2.html"
+    }
+  ];
+
+  const grid = document.getElementById('siteGrid');
+
+  sites.forEach(site => {
+    const preview = site.placeholder
+      ? `<img src="${site.placeholder}" alt="${site.title} preview"
+            style="width:100%; height:100%; object-fit:cover; display:block;" />`
+      : `<iframe src="${site.url}" loading="lazy" scrolling="no"
+            sandbox="allow-scripts allow-same-origin"
+            style="width:200%; height:200%; transform:scale(0.5); transform-origin:top left; border:none; pointer-events:none;"
+            title="${site.title}"></iframe>`;
+
+    grid.innerHTML += `
+      <div class="card">
+        <div class="browser-bar">
+          <div class="browser-dots">
+            <div class="dot red"></div>
+            <div class="dot yellow"></div>
+            <div class="dot green"></div>
+          </div>
+        </div>
+        <div class="iframe-wrapper">
+          ${preview}
+          <a class="iframe-overlay" href="${site.url}" target="_blank" rel="noopener"></a>
+        </div>
+        <div class="card-footer">
+          <div>
+            <div class="card-title">${site.title}</div>
+            <div class="card-desc">${site.description}</div>
+          </div>
+          <a class="open-btn" href="${site.url}" target="_blank" rel="noopener">Open ↗</a>
+        </div>
+      </div>
+    `;
+  });
+</script>
+
+
+
+
+</div>
+  </main>
+  <footer class="mt-auto py-3 text-center">
+
+  <small class="text-muted mb-2">
+    <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+    by <strong>Vasudha Kulkarni</strong>
+  </small>
+
+  <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:Vasudha.Kulkarni@ist.ac.at"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/vasudha-kulkarni"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.linkedin.com/in/vasudha-kulkarni-b25b5b191"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#007bb5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.twitter.com/vkulkarni_2081"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#1da1f2'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-twitter fa-1x"></i>
+    </a><a class="social mx-1"  href="https://scholar.google.com/citations?user=R-PCBTUAAAAJ&hl=en"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#4285f4'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-graduation-cap fa-1x"></i>
+    </a>
+
+</div><small id="attribution">
+    theme <a href="https://github.com/yousinix/portfolYOU">portfolYOU</a>
+  </small>
+
+</footer>
+
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+</body>
+
+</html>

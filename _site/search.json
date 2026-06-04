@@ -1,11 +1,35 @@
 [
   
     {
+      "title"    : "Visualisation Inspiration",
+      "category" : "",
+      "tags"     : "recommendations, websites",
+      "url"      : "/blog/visualisation",
+      "date"     : "2026-02-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Vienna beyond Schnitzel &amp; Schönbrunn",
+      "category" : "",
+      "tags"     : "recommendations, review, vienna",
+      "url"      : "/blog/vienna-guide",
+      "date"     : "2025-07-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Pushing your academic boundaries",
+      "category" : "",
+      "tags"     : "academia, recommendations",
+      "url"      : "/blog/pushing-academic-boundaries",
+      "date"     : "2025-06-01 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Digital garden of longform articles",
       "category" : "",
       "tags"     : "recommendations, reading, article, blogs",
       "url"      : "/blog/longform-articles",
-      "date"     : "2024-08-01 00:00:00 +0530"
+      "date"     : "2024-08-01 00:00:00 +0200"
     } ,
   
     {
@@ -13,7 +37,7 @@
       "category" : "",
       "tags"     : "blogs, recommendations, academia",
       "url"      : "/blog/blogs-to-follow",
-      "date"     : "2024-07-01 00:00:00 +0530"
+      "date"     : "2024-07-01 00:00:00 +0200"
     } ,
   
     {
@@ -21,7 +45,7 @@
       "category" : "",
       "tags"     : "reading, recommendations, review",
       "url"      : "/blog/kannada-novels",
-      "date"     : "2024-06-01 00:00:00 +0530"
+      "date"     : "2024-06-01 00:00:00 +0200"
     } ,
   
     {
@@ -29,7 +53,7 @@
       "category" : "",
       "tags"     : "academia, journalism, interviews, article",
       "url"      : "/blog/balancing-act",
-      "date"     : "2022-11-10 00:00:00 +0530"
+      "date"     : "2022-11-10 00:00:00 +0100"
     } ,
   
     {
@@ -37,7 +61,7 @@
       "category" : "",
       "tags"     : "scicomm, books, article",
       "url"      : "/blog/myth-coy-female",
-      "date"     : "2022-02-25 00:00:00 +0530"
+      "date"     : "2022-02-25 00:00:00 +0100"
     } ,
   
     {
@@ -45,7 +69,7 @@
       "category" : "",
       "tags"     : "scicomm, article, books",
       "url"      : "/blog/cuckoos",
-      "date"     : "2021-11-15 00:00:00 +0530"
+      "date"     : "2021-11-15 00:00:00 +0100"
     } ,
   
     {
@@ -53,7 +77,7 @@
       "category" : "",
       "tags"     : "article, journalism, interviews",
       "url"      : "/blog/earth-blossom-steel",
-      "date"     : "2020-06-15 00:00:00 +0530"
+      "date"     : "2020-06-15 00:00:00 +0200"
     } 
   
 ]

@@ -100,7 +100,7 @@ It's an independent, online journal-magazine focusing on contemporary issues in 
 #### _The Third Eye_
 _The Third Eye_ is an organisation working at the intersection of gender, caste, labour and education, and they publish a lot of material from marginalised voices and creates a learning platform educators, grassroot workers and policy makers. I really enjoyed reading this article called [_Will You Hide the Body with Me?_](https://thethirdeyeportal.in/praxis/will-you-hide-the-body-with-me/) by Vijeta Kumar, discussing female friendships and criminals!
 
-#### 9. _Works in Progress_ 
+#### _Works in Progress_ 
 It is a magazine of new and underrated ideas - each article explores in depth an idea or a phenomenon. Read about [_why we stopped building subways cheaply_](https://www.worksinprogress.news/p/why-we-stopped-building-subways-cheaply) and [_violence in prehistoric times](https://worksinprogress.co/issue/the-prehistoric-psychopath/). 
 
 <!--
