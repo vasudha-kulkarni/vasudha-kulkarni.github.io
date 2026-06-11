@@ -20,10 +20,11 @@ My friend Divyansh, introduced me to the idea of [digital gardens](https://www.t
 
 #### A list of articles, in order of when I read them - 
 
-Last updated: 31-05-2026
+Last updated: 10-06-2026
 
 ##### 2026
 
+* [_'You must, in some sense, go mad with literature'_](https://scroll.in/article/1093041/you-must-in-some-sense-go-mad-with-literature-writer-vivek-shanbhag) an interview with Vivek Shanbhag
 * [_Who Really Benefits from Welfare Transfers?_](https://www.theindiaforum.in/economy/who-really-benefits-welfare-transfers) by Dwaipayan Bhattacharya
   > _"Where the state compensates for capital’s failure to pay living wages, the real labharthis (beneficieries) of this political economy are not the recipients of freebies at all. They are the alliance of concentrated wealth and political power — a system of crony capitalism in which corporate accumulators and crafty demagogues converge to convert modest welfare into spectacles of benevolence, while quietly guarding a regime of hyper-accumulation amid deepening inequality."_
 
@@ -31,7 +32,7 @@ Last updated: 31-05-2026
 * [_Indian Liberals Must Die_](https://www.nplusonemag.com/online-only/online-only/indian-liberals-must-die/) by Raghu Karnad
 * [_There is always more we can do_](https://progressive.international/wire/2026-03-18-there-is-always-more-we-can-do-/en/) by Sally Rooney
 * [_What is a Feminist Choice?_](https://herenowstudies.com/archive?slug=45&freePost=true) by Rega Jha
-  > _“What is a feminist choice?” It is a choice that expands what we collectively recognise as dignified living._
+  > _"You should stay in that unease for a while—in that gorgeous, lush tension between yearning and knowing better; yearning despite knowing better. You should argue against your desires, interrogate them, hold them against the light, see what they have to say about their own origins. And should you give in, you should do so with honesty, with self-possession, with clarity of thought, with clarity of language. You are, there’s no question, strong enough to bear your own contradictions. You are, after all, a feminist woman."_
 
 * [_Why don't Indians read for pleasure_](https://www.theculturecafe.in/p/why-dont-indians-read-for-pleasure) by Anurag Minus Verma 
   > _"Indians do read for pleasure, but they also read anxiously, strategically, and sometimes secretly. They read in languages that rarely enter metropolitan surveys. They read on cheap paper and cracked phone screens, often because income does not allow even the small pleasure of changing a new tempered glass."_
@@ -55,8 +56,10 @@ Last updated: 31-05-2026
 * [_The Case Against Travel_](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel) by Agnes Callard
 * [_For the Love of Jim and Pam_](https://www.news9live.com/art-culture/cinema/for-the-love-of-jim-and-pam-why-theres-no-disgrace-in-loving-for-a-living-154287) _: Why there's no disgrace in loving for a living_ by Rahul Desai
   > _"Either way, the stability of loving is routinely ruptured to pursue the restlessness of living."_
-  
+
+<!--
 * [_Absurd Trolley Problems_](https://neal.fun/absurd-trolley-problems/) by Neal Agarwal (not an article - but really fun!)
+-->
 * [_Heirlooms_](https://medium.com/@behindthedesk/heirlooms-017753d86357) by Prakriti Singh
 
 ##### 2024 and before

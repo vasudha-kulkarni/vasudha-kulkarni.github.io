@@ -5,7 +5,7 @@ style: border
 color: dark
 description: My favourite things to eat, shop and do in Vienna. 
 ---
-Last updated: 16-02-2025 \\
+Last updated: 07-06-2025 \\
 More to come - underrated museums, Christmas markets and itineraries!
 
 <div style="max-width: 500px; margin: auto;">
@@ -52,7 +52,7 @@ My third favourite thing about living in Vienna (after the public transport and 
 If you're visiting Vienna for a few days, you can walk around on Mariahilferstrasse (international brands) and Burggasse (independent shops and thrift stores), and the area in between to get a good impression of the bustling, commercial areas of Vienna. There are also a lot of cafes and restaurants you can stop to refuel. But if you're a resident, like me, here are some interesting, out-of-the-way shops that are worth going back to - 
 
 - English bookstores - *Hafi Books, Shakespeare and Co*
-- Thrift stores for clothes - *Bender Vintage, Burggasee 24*
+- Thrift stores for clothes - *Bender Vintage, Burggasse 24, Humana Lerchenfeld*
 - Art and stationery - *Iranaeus Kraus, Milaneum* (vintage prints and photos), *Kunst und Art Wien* (eclectic art store supporting independent artists), *Paper Republic, Gerstacker* (notebooks and stationary)
 - Thrift stores for furniture and kitchen items - *Carla Mittersteig*, *Die Glasfabrik* (insanely fancy, but some good finds)
 - Food and farmers market - *Naschmarkt* (large outdoor market with a wide range of products), *Hannovermarkt* (amazing fresh produce), *Prosi Exotic Supermarket* (Indian, Asian, African and Latin American grocery products)
